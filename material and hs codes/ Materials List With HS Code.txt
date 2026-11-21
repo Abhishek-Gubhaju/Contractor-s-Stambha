@@ -1,0 +1,3530 @@
+# Cement & Concrete
+OPC cement,2523.29
+PPC cement,2523.29
+White cement,2523.21
+Cement clinker,2523.10
+Aluminous cement,2523.30
+Slag / supersulphate cement,2523.90
+Ready-mix / dry concrete mix,3824.50
+Cement plasticizer admixture,3824.40
+Accelerator admixture,3824.40
+Retarder admixture,3824.40
+Air-entraining admixture,3824.40
+Waterproofing admixture,3824.40
+Curing compound,3824.99
+Non-shrink cement grout,3824.50
+Cement-based tile adhesive,3824.50
+Epoxy grout,3506.91
+Quick lime,2522.10
+Slaked lime,2522.20
+Fly ash,2621.90
+Silica fume / microsilica,2811.22
+# Aggregates & Earth
+River sand,2505.10
+Silica sand,2505.10
+Crushed stone aggregate (gitti),2517.10
+Gravel / pebble,2517.10
+Boulder (rough),2516.90
+Stone dust / quarry dust,2517.10
+Macadam / soling stone,2517.10
+Riprap / rock fill,2517.10
+Moorum / murrum,2508.40
+Bentonite clay,2508.10
+Ballast stone,2517.10
+Filter media sand/gravel,2517.10
+Top soil / filling earth,2508.40
+Laterite,2508.40
+Slate granules,2517.10
+Marble chips (terrazzo),2517.10
+Terrazzo chips,2517.10
+Quartzite,2506.20
+Pumice stone,2513.10
+Granite kerb/sett (rough),2516.11
+# Bricks, Blocks & Masonry
+Clay building brick,6904.10
+Clay paving brick,6904.10
+Hollow clay block,6904.10
+Solid concrete block,6810.10
+Hollow concrete block,6810.10
+AAC block,6810.10
+Cement paving tile / flagstone,6810.10
+Concrete kerb stone,6810.10
+Interlocking paver block,6810.10
+Concrete ventilation block,6810.10
+RCC hume pipe,6810.99
+Concrete pipe (non-RCC),6810.99
+Prefab RCC column / beam,6810.91
+Prefab concrete panel / slab,6810.91
+Concrete septic tank,6810.99
+Concrete manhole ring,6810.99
+Corrugated fibre-cement sheet,6811.41
+Flat fibre-cement sheet,6811.42
+Gypsum plaster board,6809.19
+Lime mortar mix,3824.50
+# Stone, Marble & Granite
+Marble slab (polished),6802.91
+Marble tile,6802.91
+Granite slab,6802.93
+Granite tile,6802.93
+Slate tile,6803.00
+Sandstone slab,6802.99
+Limestone slab,6802.99
+Worked pebble / landscape stone,6802.99
+Stone counter / vanity top,6802.99
+Terrazzo tile,6810.10
+Marble powder (fine),2517.10
+Stone stair step,6802.99
+Stone cladding / veneer,6802.99
+Stone setts (worked),6801.00
+Stone kerb (worked),6801.00
+# Steel & Iron
+Rebar ribbed (TMT),7214.20
+MS round bar,7214.90
+MS square bar,7214.90
+MS flat bar,7211.19
+MS angle,7216.21
+MS channel,7216.31
+MS I-beam,7216.32
+MS plate / sheet,7208.39
+Chequered plate,7208.51
+HR coil / sheet,7208.39
+CR sheet,7209.17
+GI corrugated sheet,7210.49
+GI plain sheet,7210.49
+Prepainted colour sheet,7210.70
+GI coil,7210.49
+Tin plate,7210.11
+MS black pipe,7306.30
+GI pipe,7306.30
+SS pipe,7306.40
+Square hollow section,7306.61
+Rectangular hollow section,7306.61
+ERW pipe,7306.30
+Seamless steel pipe,7304.19
+Cast iron pipe,7303.00
+MS roof truss,7308.90
+Scaffold tube / coupler,7308.40
+Steel scaffolding plank,7308.40
+MS gate / grill,7308.90
+Steel door / window frame,7308.30
+Steel shuttering plate,7308.40
+GI binding wire,7217.20
+Barbed wire,7313.00
+Chain link mesh,7314.19
+Welded wire mesh,7314.19
+Expanded metal mesh,7314.50
+Nails,7317.00
+Bolts & nuts,7318.15
+Self-tapping screws,7318.14
+Washers,7318.22
+SS handrail / balustrade,7326.90
+# Aluminium, Copper & Other Metals
+Aluminium sheet,7606.12
+Aluminium coil,7606.12
+Aluminium profile / section,7604.21
+Aluminium door frame,7610.10
+Aluminium window frame,7610.10
+Aluminium composite panel (ACP),7606.12
+Aluminium grating,7616.99
+Aluminium ladder,7616.99
+Aluminium foil,7607.19
+Copper wire / rod,7408.11
+Copper strip (earthing),7409.19
+Copper plate,7409.19
+Copper pipe,7411.10
+Brass pipe fitting,7412.20
+Brass sanitary fitting,7418.20
+Copper screws / nails,7415.33
+Zinc sheet,7905.00
+Lead sheet,7804.11
+Stainless steel sheet,7219.33
+SS bar / section,7222.20
+# Timber, Doors & Windows
+Sawn sal timber,4407.99
+Sawn softwood / pine,4407.19
+Teak sawn wood,4407.29
+Wooden door frame (chaukhat),4418.20
+Wooden door shutter,4418.20
+Flush door,4418.20
+Panel door,4418.20
+Wooden window frame,4418.20
+Glazed wooden shutter,4418.20
+Wooden railing / balustrade,4418.99
+Wooden stair tread,4418.99
+Wooden moulding / beading,4409.29
+Veneer sheet,4408.90
+Bamboo pole / scaffolding,4401.40
+Wooden batten / furring,4409.29
+Timber post / pile,4403.99
+Wood wool / excelsior,4405.00
+Wooden ladder,4421.99
+Wooden crate / pallet,4415.10
+Wooden cable drum,4415.10
+Wooden shuttering plank,4407.99
+Wooden skirting,4409.29
+Wooden handrail,4418.99
+Wooden louver / vent,4421.99
+Wooden formwork panel,4418.99
+# Plywood & Boards
+Commercial plywood,4412.39
+Teak plywood,4412.33
+Marine plywood,4412.39
+Film-faced plywood,4412.39
+Flexi / bending ply,4412.39
+Block board,4412.39
+Laminated board,4412.39
+MDF board,4411.13
+HDF board,4411.14
+Particle board,4410.11
+OSB board,4410.12
+Decorative laminate (sunmica),3921.90
+Gypsum board,6809.19
+Cement board,6811.42
+Calcium silicate board,6806.90
+# Glass
+Float glass 4mm,7005.29
+Float glass 6mm,7005.29
+Tinted glass,7005.10
+Tempered / toughened glass,7007.19
+Laminated glass,7007.29
+Wired glass,7005.10
+Mirror glass,7009.92
+Glass louver blade,7003.19
+Glass block,7016.90
+GRP / fibreglass sheet,7019.90
+Glass wool insulation,7019.90
+Framed mirror,7009.92
+# Plastic Pipes & Fittings
+PVC pipe,3917.23
+uPVC pipe,3917.23
+CPVC pipe,3917.23
+HDPE pipe,3917.21
+LDPE pipe,3917.21
+PPR pipe,3917.22
+ABS pipe,3917.29
+GRP / FRP pipe,3917.39
+PVC elbow,3917.40
+PVC tee,3917.40
+PVC bend,3917.40
+PVC coupling,3917.40
+PVC reducer,3917.40
+PVC end cap,3917.40
+PVC union,3917.40
+PVC saddle,3917.40
+PVC vent cowl,3917.40
+PVC floor trap,3917.40
+PVC conduit,3917.23
+Conduit bend / box,3917.40
+Flexible PVC hose,3917.32
+PPR fittings,3917.40
+HDPE fittings,3917.40
+CPVC fittings,3917.40
+Plastic inspection chamber,3925.90
+# Metal Pipes & Fittings
+GI pipe,7306.30
+MS pipe,7306.30
+SS pipe,7306.40
+Copper pipe,7411.10
+Aluminium pipe,7608.20
+CI spigot pipe,7303.00
+Ductile iron (DI) pipe,7303.00
+Steel pipe elbow,7307.99
+GI elbow (threaded),7307.92
+GI tee,7307.92
+GI socket,7307.92
+SS elbow / fitting,7307.29
+Steel flange,7307.91
+Pipe clamp / hanger,7326.90
+Flexible metal hose,8307.10
+# Valves, Taps & Sanitary Metal
+Gate valve,8481.80
+Globe valve,8481.80
+Ball valve,8481.80
+Check valve,8481.30
+Butterfly valve,8481.80
+Foot valve,8481.30
+Float valve,8481.80
+Pressure reducing valve,8481.80
+Bib cock / tap,8481.80
+Angle cock,8481.80
+Shower mixer,8481.80
+Pillar cock,8481.80
+Concealed stop cock,8481.80
+CP flush valve,8481.80
+CP grab bar,7324.90
+SS towel ring,7324.90
+Steel soap dish,7324.90
+Toilet paper holder,7324.90
+SS floor drain,7324.90
+Waste coupling,7324.90
+# Ceramic Sanitary & Tiles
+EWC commode set,6910.10
+Orissa pan,6910.10
+Wash basin (ceramic),6910.10
+Urinal (ceramic),6910.10
+Ceramic sink,6910.10
+Squatting plate,6910.10
+Ceramic cistern,6910.10
+Porcelain floor tile,6907.21
+Vitrified tile,6907.21
+Ceramic wall tile,6907.23
+Glazed tile,6907.23
+Mosaic tile,6907.22
+Anti-skid tile,6907.22
+Parking tile,6907.21
+Ceramic skirting,6907.23
+Ceramic roof tile,6906.00
+Terracotta tile,6906.00
+Ceramic jali / ventilator,6914.90
+Ceramic soap dish,6912.00
+Ceramic door handle,6914.90
+# Plastic Products & Tanks
+PVC water tank,3925.10
+HDPE water tank,3925.10
+Loft tank,3925.10
+Plastic septic tank,3925.10
+Plastic cistern,3922.20
+Plastic seat cover,3922.20
+Plastic wash basin,3922.90
+Plastic bucket,3924.90
+Plastic drum (200L),3923.30
+Plastic crate,3923.10
+HDPE tarpaulin,6306.12
+Rigid PVC sheet,3920.49
+Acrylic sheet (PMMA),3920.51
+Polycarbonate sheet,3920.61
+FRP sheet,3926.90
+Plastic door mat,3924.90
+PVC floor mat / roll,3918.10
+Artificial grass turf,5703.39
+Plastic mesh / net,5608.11
+Plastic rope / twine,5607.50
+# Paints & Chemicals
+Acrylic emulsion paint,3209.10
+Exterior weather coat,3209.10
+Interior emulsion paint,3209.10
+Cement primer,3209.90
+Enamel paint,3208.20
+Synthetic enamel paint,3208.20
+Zinc-rich primer,3208.90
+Epoxy paint,3208.90
+PU paint,3208.90
+Red oxide primer,3208.90
+Varnish,3210.00
+Melamine polish,3210.00
+Shellac / french polish,3210.00
+Distemper,3209.90
+Cement paint,3210.00
+Wall putty,3214.10
+Wood filler,3214.10
+Glaziers putty,3214.10
+Silicone sealant,3506.91
+PU sealant,3506.91
+Bitumen mastic sealant,2715.00
+Paint thinner,3814.00
+NC thinner,3814.00
+Turpentine oil,3805.40
+Raw linseed oil,1515.11
+Boiled linseed oil,1515.19
+Anti-termite chemical,3808.91
+Fungicide,3808.92
+Herbicide,3808.93
+Disinfectant,3808.94
+# Waterproofing & Roofing
+APP bitumen membrane,6807.90
+SBS membrane,6807.90
+Bitumen primer,2715.00
+Bitumen felt,6807.10
+Bitumen (asphalt),2713.20
+Coal tar,2706.00
+Elastomeric waterproof coating,3824.99
+Cementitious waterproofing,3824.99
+Crystalline waterproofing,3824.99
+PVC waterstop,3916.90
+Rubber waterstop,4016.99
+Expansion joint filler (foam),4016.10
+Fibre-cement roof sheet,6811.41
+CGI sheet,7210.49
+Colour roof sheet,7210.70
+Ridge cap,7210.70
+PVC gutter,3925.90
+PVC rainwater pipe,3925.90
+Polycarbonate roof sheet,3920.61
+Solar reflective coating,3824.99
+# Electrical Wires & Cables
+House wire 1.5 sqmm,8544.49
+House wire 2.5 sqmm,8544.49
+House wire 4 sqmm,8544.49
+Flexible wire,8544.49
+Submersible cable,8544.49
+Armoured cable (4-core),8544.49
+XLPE cable,8544.49
+Control cable,8544.49
+Telephone cable,8544.49
+Coaxial cable,8544.20
+LAN / Cat6 cable,8544.49
+Fibre optic cable,8544.70
+Welding cable,8544.49
+Battery cable,8544.49
+Cu earthing strip,7409.19
+GI earth wire,7217.20
+Cable tray (steel),7308.90
+Cable ladder,7308.90
+Cable gland,8547.90
+Nylon cable tie,3926.90
+# Electrical Apparatus & Gear
+MCB SP,8536.20
+MCB DP,8536.20
+MCB TP,8536.20
+RCCB / ELCB,8536.20
+Isolator / switch disconnector,8536.50
+HRC fuse,8536.10
+Distribution board,8537.10
+MDB / panel board,8537.10
+Changeover switch,8536.50
+Modular switch,8536.50
+Socket outlet,8536.69
+Plug top,8536.69
+Extension cord,8544.42
+Dimmer,8536.50
+Bell push,8536.50
+Indicator lamp,8531.80
+Door bell,8531.80
+Contactor,8536.49
+Thermal overload relay,8536.30
+Timer switch,8536.49
+Surge protector (SPD),8536.30
+Earth leakage relay,8536.30
+Copper busbar,8536.90
+Terminal block,8536.90
+Metal junction box,8547.90
+# Lighting, Fans & Appliances
+LED bulb,8539.52
+LED tube,8539.52
+LED panel light,9405.11
+LED flood light,9405.11
+Street light fixture,9405.11
+Emergency light,9405.11
+Decorative / chandelier light,9405.11
+Ceiling fan,8414.51
+Exhaust fan,8414.51
+Pedestal fan,8414.51
+Electric water heater,8516.10
+Geyser,8516.10
+Room heater,8516.29
+Air conditioner,8415.10
+Water purifier / cooler,8421.21
+# Hardware, Tools & Fasteners
+Padlock,8301.10
+Mortise door lock,8301.40
+Cylinder lock,8301.40
+SS hinge,8302.10
+Aldrop / tower bolt,8302.41
+Door closer,8302.60
+Door stopper,8302.49
+Tower bolt,8302.41
+SS door handle,8302.49
+Caster wheel,8302.20
+Aluminium ladder,7616.99
+Wheelbarrow,8716.80
+Shovel / phawra,8201.10
+Pickaxe,8201.30
+Crowbar,8205.59
+Hammer,8205.20
+Spanner / wrench,8204.11
+Screwdriver,8205.40
+Plier,8203.20
+Hacksaw blade,8202.31
+Mason trowel,8201.90
+Measuring tape,9017.20
+Spirit level,9015.30
+Dumpy / auto level,9015.30
+Total station,9015.20
+Theodolite,9015.20
+Laser level,9015.30
+Drill machine,8467.21
+Angle grinder,8467.29
+Abrasive cutting blade,6804.22
+# Machinery & Equipment
+Concrete mixer,8474.31
+Batching plant,8474.20
+Poker vibrator,8479.89
+Power trowel,8479.89
+Bar bending machine,8462.29
+Bar cutting machine,8462.29
+DG set (≤75 kVA),8502.11
+Distribution transformer,8504.33
+UPS,8504.40
+Inverter,8504.40
+Lead-acid battery,8507.20
+Solar PV panel,8541.43
+Solar water heater,8419.12
+Submersible pump,8413.70
+Dewatering pump,8413.70
+Air compressor,8414.80
+Arc welding machine,8515.31
+Chain pulley block (manual),8425.19
+Winch / hoist,8425.31
+Excavator / JCB,8429.52
+# Safety & Site Supplies
+Safety helmet,6506.10
+Safety shoe (steel toe),6403.40
+Safety goggle,9004.90
+Reflective jacket,6211.43
+Leather hand glove,4203.29
+Rubber hand glove,4015.19
+Safety belt / harness,6307.90
+First aid box,3006.50
+Fire extinguisher,8424.10
+Barricade tape,3920.10
+Traffic cone,3926.90
+Reflective sign board,8310.00
+Caution board,8310.00
+Site office container,9406.90
+Porta cabin,9406.90
+# Adhesives, Rubber & Misc
+Epoxy adhesive,3506.91
+PVA adhesive (fevicol),3506.10
+Polymer tile adhesive,3506.10
+Epoxy putty (m-seal),3506.91
+Contact adhesive,3506.10
+Rubber sheet,4008.21
+Rubber mat,4016.91
+Neoprene bearing,4016.99
+Cork sheet,4504.10
+Thermocol (EPS),3921.11
+PUF panel,3921.13
+Glass fibre mesh,7019.61
+Chicken mesh,7314.19
+Welding rod,8311.10
+SS welding electrode,8311.10
+LPG cylinder (site),2711.13
+Oxygen cylinder,2804.40
+Nitrogen cylinder,2804.30
+# Kitchen, Housekeeping & Office
+SS kitchen sink,7324.10
+LPG gas stove,7321.11
+Kitchen chimney hood,8414.60
+Refrigerator,8418.21
+Deep freezer,8418.30
+Microwave oven,8516.50
+Water dispenser,8516.10
+Steel table,9403.20
+Office swivel chair,9401.31
+Office desk,9403.30
+Filing cabinet,9403.10
+Printer,8443.32
+Laptop / computer,8471.30
+A4 paper,4802.56
+Toner cartridge,8443.99
+Broom,9603.90
+Mop,9603.90
+Detergent powder,3402.50
+Disinfectant fluid (phenyl),3808.94
+Plastic dustbin,3924.90
+no,material,hs_code
+501,PVC pipe 20mm,3917.23
+502,PVC pipe 25mm,3917.23
+503,PVC pipe 32mm,3917.23
+504,PVC pipe 40mm,3917.23
+505,PVC pipe 50mm,3917.23
+506,PVC pipe 65mm,3917.23
+507,PVC pipe 80mm,3917.23
+508,PVC pipe 100mm,3917.23
+509,PVC pipe 150mm,3917.23
+510,CPVC pipe 15mm,3917.23
+511,CPVC pipe 20mm,3917.23
+512,CPVC pipe 25mm,3917.23
+513,CPVC pipe 32mm,3917.23
+514,CPVC pipe 40mm,3917.23
+515,CPVC pipe 50mm,3917.23
+516,PPR pipe 20mm,3917.22
+517,PPR pipe 25mm,3917.22
+518,PPR pipe 32mm,3917.22
+519,PPR pipe 40mm,3917.22
+520,PPR pipe 50mm,3917.22
+521,PPR pipe 63mm,3917.22
+522,HDPE pipe 25mm,3917.21
+523,HDPE pipe 32mm,3917.21
+524,HDPE pipe 50mm,3917.21
+525,HDPE pipe 63mm,3917.21
+526,HDPE pipe 90mm,3917.21
+527,HDPE pipe 110mm,3917.21
+528,uPVC DWV pipe 75mm,3917.23
+529,uPVC DWV pipe 110mm,3917.23
+530,uPVC DWV pipe 160mm,3917.23
+531,PVC elbow 25mm,3917.40
+532,PVC tee 25mm,3917.40
+533,PVC tee 75mm,3917.40
+534,PVC tee 110mm,3917.40
+535,PVC bend 90deg 75mm,3917.40
+536,PVC bend 90deg 110mm,3917.40
+537,PVC Y-branch 75mm,3917.40
+538,PVC Y-branch 110mm,3917.40
+539,PVC door tee 110mm,3917.40
+540,PVC door bend 110mm,3917.40
+541,PVC vent cowl 110mm,3917.40
+542,PVC end cap 25mm,3917.40
+543,PVC end cap 50mm,3917.40
+544,PVC union 25mm,3917.40
+545,PVC union 50mm,3917.40
+546,PVC reducer 110x75mm,3917.40
+547,PVC socket 110mm,3917.40
+548,CPVC elbow 20mm,3917.40
+549,CPVC tee 25mm,3917.40
+550,CPVC union 25mm,3917.40
+551,PPR elbow 25mm,3917.40
+552,PPR tee 32mm,3917.40
+553,PPR coupling 25mm,3917.40
+554,GI pipe 15mm,7306.30
+555,GI pipe 20mm,7306.30
+556,GI pipe 25mm,7306.30
+557,GI pipe 40mm,7306.30
+558,GI pipe 50mm,7306.30
+559,GI pipe 65mm,7306.30
+560,GI pipe 80mm,7306.30
+561,GI pipe 100mm,7306.30
+562,GI elbow 25mm,7307.92
+563,GI tee 25mm,7307.92
+564,GI union 25mm,7307.92
+565,GI socket 20mm,7307.92
+566,GI reducer 25x15mm,7307.92
+567,RCC hume pipe 200mm,6810.99
+568,RCC hume pipe 300mm,6810.99
+569,RCC hume pipe 450mm,6810.99
+570,RCC hume pipe 600mm,6810.99
+571,Gate valve 15mm,8481.80
+572,Gate valve 25mm,8481.80
+573,Gate valve 50mm,8481.80
+574,Gate valve 80mm,8481.80
+575,Ball valve 15mm,8481.80
+576,Ball valve 25mm,8481.80
+577,Ball valve 50mm,8481.80
+578,Check valve 25mm,8481.30
+579,Check valve 50mm,8481.30
+580,Check valve 80mm,8481.30
+581,Foot valve 25mm,8481.30
+582,Foot valve 40mm,8481.30
+583,Float valve 15mm,8481.80
+584,Float valve 25mm,8481.80
+585,Bib cock 15mm,8481.80
+586,Bib cock 20mm,8481.80
+587,Angle cock 15mm,8481.80
+588,Pillar cock 15mm,8481.80
+589,Shower head with arm,8481.80
+590,Health faucet set,8481.80
+591,Flush valve 32mm,8481.80
+592,Flush valve 40mm,8481.80
+593,SS floor drain 75mm,7324.90
+594,SS floor drain 100mm,7324.90
+595,SS waste coupling 32mm,7324.90
+596,SS grab bar 450mm,7324.90
+597,SS grab bar 600mm,7324.90
+598,SS towel ring,7324.90
+599,EWC commode set,6910.10
+600,Orissa pan 580mm,6910.10
+601,Wash basin 500x400mm,6910.10
+602,Urinal 465mm,6910.10
+603,SS kitchen sink 600x450mm,7324.10
+604,SS kitchen sink 900x450mm,7324.10
+605,SS soap dish,7324.90
+606,PVC water tank 500L,3925.10
+607,PVC water tank 1000L,3925.10
+608,PVC water tank 2000L,3925.10
+609,PVC water tank 5000L,3925.10
+610,HDPE tank 10000L,3925.10
+611,Loft tank 500L,3925.10
+612,SS water tank 1000L,7309.00
+613,SS water tank 2000L,7309.00
+614,Submersible pump 0.5HP,8413.70
+615,Submersible pump 1HP,8413.70
+616,Submersible pump 2HP,8413.70
+617,Submersible pump 3HP,8413.70
+618,Submersible pump 5HP,8413.70
+619,Self-priming pump 1HP,8413.70
+620,Centrifugal pump 3HP,8413.70
+621,Centrifugal pump 5HP,8413.70
+622,Jet pump 1HP,8413.70
+623,Water meter 15mm,9028.20
+624,Water meter 25mm,9028.20
+625,Pressure gauge 0-10 bar,9026.20
+626,Cu wire 1.0 sqmm,8544.49
+627,Cu wire 1.5 sqmm,8544.49
+628,Cu wire 2.5 sqmm,8544.49
+629,Cu wire 4.0 sqmm,8544.49
+630,Cu wire 6.0 sqmm,8544.49
+631,Cu wire 10 sqmm,8544.49
+632,Cu wire 16 sqmm,8544.49
+633,Cu wire 25 sqmm,8544.49
+634,Cu wire 35 sqmm,8544.49
+635,Cu wire 50 sqmm,8544.49
+636,Cu wire 70 sqmm,8544.49
+637,Cu wire 95 sqmm,8544.49
+638,Cu wire 120 sqmm,8544.49
+639,Cu wire 150 sqmm,8544.49
+640,Cu wire 185 sqmm,8544.49
+641,Cu wire 240 sqmm,8544.49
+642,Cu wire 300 sqmm,8544.49
+642,2C x 1.5 sqmm cable,8544.49
+644,2C x 2.5 sqmm cable,8544.49
+645,3C x 2.5 sqmm cable,8544.49
+646,3C x 4 sqmm cable,8544.49
+647,4C x 4 sqmm cable,8544.49
+648,4C x 6 sqmm cable,8544.49
+649,4C x 10 sqmm cable,8544.49
+650,4C x 16 sqmm cable,8544.49
+651,4C x 25 sqmm cable,8544.49
+652,3.5C x 35 sqmm cable,8544.49
+653,3.5C x 50 sqmm cable,8544.49
+654,3.5C x 70 sqmm cable,8544.49
+655,3.5C x 95 sqmm cable,8544.49
+656,4C x 120 sqmm cable,8544.49
+657,4C x 150 sqmm cable,8544.49
+658,4C x 185 sqmm cable,8544.49
+659,4C x 240 sqmm cable,8544.49
+660,4C x 300 sqmm cable,8544.49
+661,11kV HT cable 3C x 95mm,8544.60
+662,11kV HT cable 3C x 185mm,8544.60
+663,33kV HT cable 1C x 300mm,8544.60
+664,Coaxial RG-6 cable,8544.20
+665,Coaxial RG-11 cable,8544.20
+666,Cat6 LAN cable,8544.49
+667,Cat6a shielded cable,8544.49
+668,Telephone cable 10-pair,8544.49
+669,Telephone cable 20-pair,8544.49
+670,Fibre optic 12-core,8544.70
+671,Fibre optic 24-core,8544.70
+672,Submersible flat cable 3C x 4mm,8544.49
+673,Welding cable 25 sqmm,8544.49
+674,Welding cable 50 sqmm,8544.49
+675,Cu earthing strip 25x3mm,7409.19
+676,MCB 6A SP,8536.20
+677,MCB 10A SP,8536.20
+678,MCB 16A SP,8536.20
+679,MCB 20A SP,8536.20
+680,MCB 25A SP,8536.20
+681,MCB 32A SP,8536.20
+682,MCB 40A SP,8536.20
+683,MCB 63A SP,8536.20
+684,MCB 16A DP,8536.20
+685,MCB 25A DP,8536.20
+686,MCB 32A DP,8536.20
+687,MCB 63A DP,8536.20
+688,MCB 16A TP,8536.20
+689,MCB 25A TP,8536.20
+690,MCB 32A TP,8536.20
+691,MCB 40A TP,8536.20
+692,MCB 63A TP,8536.20
+693,MCB 100A TP,8536.20
+694,RCCB 25A DP 30mA,8536.20
+695,RCCB 40A DP 30mA,8536.20
+696,RCCB 63A DP 30mA,8536.20
+697,RCCB 63A 4P 100mA,8536.20
+698,Isolator 63A TP,8536.50
+699,Isolator 100A TP,8536.50
+700,Isolator 160A TP,8536.50
+701,Changeover switch 63A TP,8536.50
+702,Changeover switch 100A TP,8536.50
+703,Modular switch 6A,8536.50
+704,Modular switch 16A,8536.50
+705,3-pin socket 6A,8536.69
+706,3-pin socket 16A,8536.69
+707,Universal socket 16A,8536.69
+708,Industrial socket 32A 5-pin,8536.69
+709,Plug top 6A,8536.69
+710,Plug top 16A,8536.69
+711,DB 4-way SPN,8537.10
+712,DB 8-way SPN,8537.10
+713,DB 8-way TPN,8537.10
+714,DB 16-way TPN,8537.10
+715,MCCB 160A,8536.20
+716,LED bulb 9W,8539.52
+717,LED bulb 12W,8539.52
+718,LED bulb 15W,8539.52
+719,LED bulb 18W,8539.52
+720,LED bulb 22W,8539.52
+721,LED tube 10W 2ft,8539.52
+722,LED tube 18W 4ft,8539.52
+723,LED tube 20W 5ft,8539.52
+724,LED panel 12W,9405.11
+725,LED panel 18W,9405.11
+726,LED panel 22W,9405.11
+727,LED panel 36W 2x2ft,9405.11
+728,LED panel 45W 2x4ft,9405.11
+729,LED flood light 50W,9405.11
+730,LED flood light 100W,9405.11
+731,LED flood light 150W,9405.11
+732,LED flood light 200W,9405.11
+733,LED street light 50W,9405.11
+734,LED street light 90W,9405.11
+735,LED street light 120W,9405.11
+736,LED street light 180W,9405.11
+737,LED high-bay 100W,9405.11
+738,LED high-bay 150W,9405.11
+739,Emergency exit light,9405.11
+740,Ceiling fan 48 inch,8414.51
+741,Ceiling fan 56 inch,8414.51
+742,Exhaust fan 9 inch,8414.51
+743,Exhaust fan 12 inch,8414.51
+744,Exhaust fan 18 inch,8414.51
+745,Pedestal fan 16 inch,8414.51
+746,TMT rebar 8mm,7214.20
+747,TMT rebar 10mm,7214.20
+748,TMT rebar 12mm,7214.20
+749,TMT rebar 16mm,7214.20
+750,TMT rebar 20mm,7214.20
+751,TMT rebar 25mm,7214.20
+752,TMT rebar 32mm,7214.20
+753,Binding wire 18 gauge,7217.20
+754,Binding wire 20 gauge,7217.20
+755,Binding wire 22 gauge,7217.20
+756,MS angle 25x25x3,7216.21
+757,MS angle 40x40x5,7216.21
+758,MS angle 50x50x5,7216.21
+759,MS angle 65x65x6,7216.21
+760,MS angle 75x75x6,7216.21
+761,MS channel 75x40,7216.31
+762,MS channel 100x50,7216.31
+763,MS channel 125x65,7216.31
+764,MS channel 150x75,7216.31
+765,MS square tube 25x25,7306.61
+766,MS square tube 40x40,7306.61
+767,MS square tube 50x50,7306.61
+768,MS rect tube 50x25,7306.61
+769,GI sheet 18 gauge,7210.49
+770,GI sheet 20 gauge,7210.49
+771,GI sheet 22 gauge,7210.49
+772,CGI sheet 0.5mm,7210.49
+773,CGI sheet 0.6mm,7210.49
+774,Color sheet 0.35mm,7210.70
+775,Color sheet 0.40mm,7210.70
+776,Color sheet 0.45mm,7210.70
+777,Color sheet 0.50mm,7210.70
+778,MS plate 3mm,7208.39
+779,MS plate 6mm,7208.39
+780,MS plate 10mm,7208.39
+781,MS plate 12mm,7208.39
+782,MS round bar 10mm,7214.90
+783,MS round bar 12mm,7214.90
+784,MS round bar 16mm,7214.90
+785,MS round bar 20mm,7214.90
+786,MS round bar 25mm,7214.90
+787,SS sheet 1mm (304),7219.33
+788,SS sheet 2mm (316),7219.33
+789,SS handrail pipe 50mm,7306.40
+790,SS handrail pipe 40mm,7306.40
+791,Hex bolt M8x30,7318.15
+792,Hex bolt M10x40,7318.15
+793,Hex bolt M12x50,7318.15
+794,Hex bolt M16x60,7318.15
+795,Hex bolt M20x75,7318.15
+796,Hex nut M8,7318.16
+797,Hex nut M10,7318.16
+798,Hex nut M12,7318.16
+799,Hex nut M16,7318.16
+800,Hex nut M20,7318.16
+801,Flat washer M10,7318.22
+802,Flat washer M12,7318.22
+803,Spring washer M10,7318.21
+804,Spring washer M12,7318.21
+805,Self-tap screw 4x25,7318.14
+806,Self-tap screw 5x40,7318.14
+807,Drywall screw 25mm,7318.14
+808,Drywall screw 40mm,7318.14
+809,Anchor fastener 8x75,7318.19
+810,Anchor fastener 10x100,7318.19
+811,Anchor fastener 12x120,7318.19
+812,Chemical anchor M12,3506.90
+813,Chemical anchor M16,3506.90
+814,Rawl plug 6mm,3926.90
+815,Rawl plug 8mm,3926.90
+816,Rawl plug 10mm,3926.90
+817,Rivet 4x10,7318.23
+818,Rivet 5x12,7318.23
+819,Nail 25mm,7317.00
+820,Nail 40mm,7317.00
+821,Nail 50mm,7317.00
+822,Nail 75mm,7317.00
+823,Nail 100mm,7317.00
+824,Roofing screw with washer,7318.14
+825,J-hook bolt,7318.15
+826,Marine ply 6mm,4412.39
+827,Marine ply 9mm,4412.39
+828,Marine ply 12mm,4412.39
+829,Marine ply 18mm,4412.39
+830,Marine ply 19mm,4412.39
+831,Commercial ply 4mm,4412.39
+832,Commercial ply 6mm,4412.39
+833,Commercial ply 9mm,4412.39
+834,Commercial ply 12mm,4412.39
+835,Commercial ply 18mm,4412.39
+836,Teak ply 4mm,4412.33
+837,Teak ply 6mm,4412.33
+838,Teak ply 9mm,4412.33
+839,Film-faced ply 12mm,4412.39
+840,Film-faced ply 18mm,4412.39
+841,Block board 18mm,4412.39
+842,MDF 6mm,4411.13
+843,MDF 9mm,4411.13
+844,MDF 12mm,4411.13
+845,MDF 18mm,4411.13
+846,HDF 12mm,4411.14
+847,Particle board 12mm,4410.11
+848,Particle board 18mm,4410.11
+849,Sunmica 0.8mm,3921.90
+850,Sunmica 1.0mm,3921.90
+851,Gypsum board 9mm,6809.19
+852,Gypsum board 12mm,6809.19
+853,Gypsum board 15mm,6809.19
+854,Cement board 12mm,6811.42
+855,Calcium silicate board 9mm,6806.90
+856,Floor tile 300x300,6907.21
+857,Floor tile 400x400,6907.21
+858,Floor tile 600x600,6907.21
+859,Floor tile 800x800,6907.21
+860,Floor tile 1200x600,6907.21
+861,Wall tile 200x300,6907.23
+862,Wall tile 300x450,6907.23
+863,Wall tile 300x600,6907.23
+864,Anti-skid tile 300x300,6907.22
+865,Parking tile 300x300,6907.21
+866,Parking tile 400x400,6907.21
+867,Vitrified tile 600x1200,6907.21
+868,Skirting tile 600x80,6907.23
+869,Mosaic tile 25x25,6907.22
+870,Glass 4mm,7005.29
+871,Glass 5mm,7005.29
+872,Glass 6mm,7005.29
+873,Glass 8mm,7005.29
+874,Glass 10mm,7005.29
+875,Glass 12mm,7005.29
+876,Tempered glass 8mm,7007.19
+877,Tempered glass 10mm,7007.19
+878,Tempered glass 12mm,7007.19
+879,Laminated glass 6+6mm,7007.29
+880,Laminated glass 8+8mm,7007.29
+881,Tinted glass 5mm,7005.10
+882,Tinted glass 6mm,7005.10
+883,Mirror 4mm,7009.92
+884,Mirror 5mm,7009.92
+885,ACP sheet 3mm,7606.12
+886,ACP sheet 4mm,7606.12
+887,Polycarbonate sheet 4mm,3920.61
+888,Polycarbonate sheet 6mm,3920.61
+889,Acrylic sheet 3mm,3920.51
+890,Acrylic sheet 5mm,3920.51
+891,Interior emulsion 4L,3209.10
+892,Interior emulsion 10L,3209.10
+893,Interior emulsion 20L,3209.10
+894,Exterior emulsion 4L,3209.10
+895,Exterior emulsion 10L,3209.10
+896,Exterior emulsion 20L,3209.10
+897,Acrylic primer 4L,3209.90
+898,Acrylic primer 10L,3209.90
+899,Acrylic primer 20L,3209.90
+900,Enamel paint 1L,3208.20
+901,Enamel paint 4L,3208.20
+902,Enamel paint 10L,3208.20
+903,Enamel paint 20L,3208.20
+904,Red oxide primer 4L,3208.90
+905,Red oxide primer 20L,3208.90
+906,Epoxy paint 4L,3208.90
+907,Epoxy paint 20L,3208.90
+908,Wall putty 20kg,3214.10
+909,Wall putty 40kg,3214.10
+910,Cement paint 25kg,3210.00
+911,Distemper 25kg,3209.90
+912,Wood stain 1L,3210.00
+913,Thinner 5L,3814.00
+914,Thinner 20L,3814.00
+915,Bitumen paint 20L,2715.00
+916,HSS drill bit 6mm,8207.50
+917,HSS drill bit 8mm,8207.50
+918,HSS drill bit 10mm,8207.50
+919,HSS drill bit 12mm,8207.50
+920,Masonry drill bit 8mm,8207.50
+921,Masonry drill bit 10mm,8207.50
+922,Masonry drill bit 12mm,8207.50
+923,SDS drill bit 12mm,8207.50
+924,Cutting blade 4 inch,6804.22
+925,Cutting blade 7 inch,6804.22
+926,Cutting blade 14 inch,6804.22
+927,Grinding wheel 4 inch,6804.21
+928,Grinding wheel 7 inch,6804.21
+929,Sandpaper 80 grit,6805.20
+930,Sandpaper 120 grit,6805.20
+931,Sandpaper 220 grit,6805.20
+932,Paint brush 1 inch,9603.40
+933,Paint brush 2 inch,9603.40
+934,Paint brush 4 inch,9603.40
+935,Paint roller 9 inch,9603.40
+936,Mason trowel,8201.90
+937,Plastering trowel,8201.90
+938,Brick trowel,8201.90
+939,Wooden float,4417.00
+940,Measuring tape 5m,9017.20
+941,Measuring tape 30m,9017.20
+942,Spirit level 600mm,9015.30
+943,Laser distance meter,9015.10
+944,Claw hammer,8205.20
+945,Sledge hammer,8205.20
+946,Shovel,8201.10
+947,Pickaxe,8201.30
+948,Crowbar 1.2m,8205.59
+949,Wheelbarrow,8716.80
+950,Scaffold cuplock standard,7308.40
+951,Concrete mixer 10/7 cft,8474.31
+952,Concrete mixer 1-bag,8474.31
+953,Poker vibrator 38mm,8479.89
+954,Poker vibrator 48mm,8479.89
+955,Plate compactor,8479.89
+956,Earth rammer,8430.69
+957,Bar bending machine,8462.29
+958,Bar cutting machine,8462.29
+959,Power trowel 36 inch,8479.89
+960,Concrete cutter,8464.10
+961,Core cutting machine,8464.10
+962,Drill machine 13mm,8467.21
+963,Hammer drill 26mm,8467.21
+964,Angle grinder 4 inch,8467.29
+965,Angle grinder 7 inch,8467.29
+966,Marble cutter 4 inch,8467.29
+967,Welding machine 250A,8515.31
+968,Welding machine 400A,8515.31
+969,DG set 15 kVA,8502.11
+970,DG set 125 kVA,8502.12
+971,Safety helmet,6506.10
+972,Reflective safety vest,6211.43
+973,Safety goggle clear,9004.90
+974,Welding shield,6506.99
+975,N95 mask,6307.90
+976,Leather glove,4203.29
+977,Rubber glove,4015.19
+978,Cotton glove,6116.92
+979,Safety boot size 8,6403.40
+980,Safety boot size 9,6403.40
+981,Safety boot size 10,6403.40
+982,Safety net (nylon),5608.19
+983,Green shade net,5608.19
+984,ABC extinguisher 6kg,8424.10
+985,CO2 extinguisher 4.5kg,8424.10
+986,Diesel (HSD),2710.19
+987,Petrol (motor spirit),2710.12
+988,Kerosene,2710.19
+989,LPG cylinder,2711.13
+990,Engine oil 15W40 5L,2710.19
+991,Hydraulic oil 68,2710.19
+992,Grease MP3,2710.19
+993,Coolant,3820.00
+994,Brake fluid,3819.00
+995,Firewood,4401.10
+996,Charcoal,4402.90
+997,Tarpaulin 6x8m,6306.12
+998,Nylon rope 10mm,5607.50
+999,Oxygen cylinder,2804.40
+1000,Argon cylinder,2804.21
+no,material,hs_code
+1001,OPC 33 grade cement,2523.29
+1002,OPC 43 grade cement,2523.29
+1003,OPC 53 grade cement,2523.29
+1004,PPC cement,2523.29
+1005,PSC slag cement,2523.90
+1006,White cement,2523.21
+1007,Coloured cement,2523.29
+1008,Rapid hardening cement,2523.29
+1009,Sulphate resistant cement,2523.29
+1010,Low heat cement,2523.29
+1011,Cement clinker,2523.10
+1012,Aluminous cement,2523.30
+1013,RMC M10,3824.50
+1014,RMC M15,3824.50
+1015,RMC M20,3824.50
+1016,RMC M25,3824.50
+1017,RMC M30,3824.50
+1018,RMC M35,3824.50
+1019,RMC M40,3824.50
+1020,Dry mortar mix (masonry),3824.50
+1021,Plaster mortar mix,3824.50
+1022,Screed mix,3824.50
+1023,Non-shrink grout,3824.50
+1024,Epoxy grout,3506.91
+1025,Tile adhesive (cement-based),3824.50
+1026,Tile adhesive (polymer),3506.10
+1027,Marble adhesive,3506.10
+1028,Plasticizer admixture,3824.40
+1029,Superplasticizer,3824.40
+1030,Accelerator admixture,3824.40
+1031,Retarder admixture,3824.40
+1032,Air-entraining admixture,3824.40
+1033,Waterproofing admixture,3824.40
+1034,Anti-washout admixture,3824.40
+1035,Curing compound,3824.99
+1036,Formwork release oil,2710.19
+1037,Quick lime,2522.10
+1038,Slaked lime,2522.20
+1039,Fly ash,2621.90
+1040,Silica fume,2811.22
+1041,River sand (concrete),2505.10
+1042,Plaster sand,2505.10
+1043,M-sand (manufactured),2517.10
+1044,Aggregate 10mm,2517.10
+1045,Aggregate 12mm,2517.10
+1046,Aggregate 19mm,2517.10
+1047,Aggregate 20mm,2517.10
+1048,Aggregate 25mm,2517.10
+1049,Aggregate 40mm,2517.10
+1050,Stone dust,2517.10
+1051,Gravel,2517.10
+1052,Boulder,2516.90
+1053,Rubble stone (riprap),2517.10
+1054,Soling stone,2517.10
+1055,Moorum,2508.40
+1056,Filling earth,2508.40
+1057,Bentonite,2508.10
+1058,Kaolin clay,2507.00
+1059,Ballast,2517.10
+1060,Filter sand,2505.10
+1061,Terrazzo chips,2517.10
+1062,Marble chips,2517.10
+1063,Granite chips,2517.10
+1064,Quartzite,2506.20
+1065,Pumice stone,2513.10
+1066,Slate (crude),2514.00
+1067,Granite block (rough),2516.11
+1068,Marble block (rough),2515.11
+1069,Limestone,2521.00
+1070,Gypsum (crude),2520.10
+1071,APP membrane 3mm,6807.90
+1072,APP membrane 4mm,6807.90
+1073,SBS membrane 3mm,6807.90
+1074,SBS membrane 4mm,6807.90
+1075,Bitumen felt,6807.10
+1076,Bitumen primer,2715.00
+1077,Bitumen paint,2715.00
+1078,Bitumen (asphalt),2713.20
+1079,Coal tar,2706.00
+1080,Elastomeric PU coating,3824.99
+1081,Cementitious waterproofing 2-comp,3824.99
+1082,Crystalline waterproofing,3824.99
+1083,Acrylic waterproof coating,3209.10
+1084,PVC waterstop 150mm,3916.90
+1085,PVC waterstop 200mm,3916.90
+1086,Rubber waterstop,4016.99
+1087,Expansion joint filler (foam),4016.10
+1088,Bitumen mastic sealant,2715.00
+1089,PU sealant,3506.91
+1090,Silicone sealant,3506.91
+1091,Polysulphide sealant,3506.91
+1092,EPDM rubber sheet,4008.21
+1093,Geotextile (non-woven),5603.94
+1094,HDPE drainage board,3925.90
+1095,Fibre-cement roof sheet,6811.41
+1096,CGI sheet 0.5mm,7210.49
+1097,Color sheet 0.45mm,7210.70
+1098,Ridge cap,7210.70
+1099,PVC gutter,3925.90
+1100,PVC rainwater pipe 110mm,3925.90
+1101,Glass wool insulation 50mm,7019.90
+1102,Rock wool insulation 50mm,6806.90
+1103,EPS board 25mm,3921.11
+1104,XPS board 50mm,3921.11
+1105,PUF panel 50mm,3921.13
+1106,Reflective insulation (foil bubble),7607.20
+1107,Solar reflective coating,3824.99
+1108,Anti-carbonation coating,3209.10
+1109,Polycarbonate sheet 6mm,3920.61
+1110,FRP skylight sheet,3926.90
+1111,Gypsum board 9mm,6809.19
+1112,Gypsum board 12mm,6809.19
+1113,Gypsum board 15mm,6809.19
+1114,Moisture-resistant gypsum board,6809.19
+1115,Gypsum plaster powder,2520.20
+1116,POP (plaster of paris),2520.20
+1117,Ceiling main tee (GI),7604.21
+1118,Ceiling cross tee,7604.21
+1119,Ceiling wall angle,7604.21
+1120,Hanger rod (threaded),7318.15
+1121,Gypsum ceiling screw,7318.14
+1122,Mineral fibre board,6806.90
+1123,Acoustic ceiling tile,6806.90
+1124,PVC ceiling panel,3925.90
+1125,Cement board 12mm,6811.42
+1126,Calcium silicate board 9mm,6806.90
+1127,Partition stud (GI),7216.99
+1128,Partition track (GI),7216.99
+1129,Drywall GI section,7216.99
+1130,Aluminium partition frame,7610.10
+1131,Glass partition (toughened),7007.19
+1132,PVC skirting,3916.20
+1133,PVC cornice,3916.20
+1134,Gypsum cornice,6809.90
+1135,Ceiling access panel,7616.99
+1136,Ceiling cover strip,7604.21
+1137,Joint paper tape,4823.90
+1138,Jointing compound,3214.10
+1139,Ceiling anchor,7318.19
+1140,Perforated gypsum board,6809.19
+1141,Wooden flush door 800x2100,4418.20
+1142,Wooden flush door 900x2100,4418.20
+1143,Panel door 900x2100,4418.20
+1144,Glazed wooden shutter,4418.20
+1145,Salwood chaukhat (frame),4418.20
+1146,Wooden window frame,4418.20
+1147,UPVC sliding window,3925.20
+1148,UPVC casement window,3925.20
+1149,UPVC door,3925.20
+1150,Aluminium sliding window,7610.10
+1151,Aluminium casement window,7610.10
+1152,Aluminium door,7610.10
+1153,Aluminium glazed partition,7610.10
+1154,MS sheet door,7308.30
+1155,Fire-rated steel door,7308.30
+1156,SS handrail,7326.90
+1157,Wooden handrail,4418.99
+1158,Mortise lock,8301.40
+1159,Cylindrical lock,8301.40
+1160,Padlock 50mm,8301.10
+1161,Rim lock,8301.40
+1162,Smart lock (electronic),8301.40
+1163,SS hinge 4 inch,8302.10
+1164,Brass hinge 4 inch,8302.10
+1165,Pivot hinge,8302.10
+1166,Tower bolt 12 inch,8302.41
+1167,Aldrop 8 inch,8302.41
+1168,Hydraulic door closer,8302.60
+1169,Door stopper,8302.49
+1170,SS lever handle,8302.49
+1171,Brass handle,8302.49
+1172,Kick plate,8302.49
+1173,Aluminium tower bolt,8302.41
+1174,Window stay,8302.49
+1175,Cabinet hinge,8302.10
+1176,Drawer slide,8302.42
+1177,Caster wheel 3 inch,8302.20
+1178,SS number plate,8310.00
+1179,Door viewer (eye),9013.80
+1180,Auto door sensor,8536.50
+1181,Float glass 4mm,7005.29
+1182,Float glass 6mm,7005.29
+1183,Float glass 10mm,7005.29
+1184,Tempered glass 10mm,7007.19
+1185,Tempered glass 12mm,7007.19
+1186,Laminated glass 6+6mm,7007.29
+1187,Laminated glass 8+8mm,7007.29
+1188,Tinted glass 6mm,7005.10
+1189,Reflective glass 6mm,7005.10
+1190,Mirror 5mm,7009.92
+1191,Road-marking glass beads,7018.10
+1192,Glazing putty,3214.10
+1193,Glazing clip,7326.90
+1194,Structural glazing silicone,3506.91
+1195,Glass wool (loose),7019.90
+1196,Fibreglass mesh tape,7019.61
+1197,Glass block,7016.90
+1198,Glass louver blade,7003.19
+1199,Acrylic sheet 6mm,3920.51
+1200,Polycarbonate solid sheet 8mm,3920.61
+1201,Interior emulsion 1L,3209.10
+1202,Interior emulsion 4L,3209.10
+1203,Interior emulsion 20L,3209.10
+1204,Exterior emulsion 4L,3209.10
+1205,Exterior emulsion 20L,3209.10
+1206,Acrylic primer 4L,3209.90
+1207,Acrylic primer 20L,3209.90
+1208,Cement primer 20L,3209.90
+1209,Zinc primer 4L,3208.90
+1210,Enamel paint 1L,3208.20
+1211,Enamel paint 4L,3208.20
+1212,Enamel paint 20L,3208.20
+1213,Epoxy floor paint 4L,3208.90
+1214,Epoxy floor paint 20L,3208.90
+1215,PU floor coating 4L,3208.90
+1216,Red oxide primer 4L,3208.90
+1217,Bitumen paint 4L,2715.00
+1218,Distemper 25kg,3209.90
+1219,Cement paint 25kg,3210.00
+1220,Wall putty 20kg,3214.10
+1221,Wall putty 40kg,3214.10
+1222,Wood filler 1kg,3214.10
+1223,Varnish 1L,3210.00
+1224,Melamine polish 1L,3210.00
+1225,Wood stain 1L,3210.00
+1226,Shellac 1kg,3210.00
+1227,Thinner 5L,3814.00
+1228,Turpentine 1L,3805.40
+1229,Linseed oil 1L,1515.19
+1230,Road marking paint 20kg,3208.90
+1231,EWC one-piece set,6910.10
+1232,EWC two-piece set,6910.10
+1233,Orissa pan 580mm,6910.10
+1234,Wash basin with pedestal,6910.10
+1235,Table-top wash basin,6910.10
+1236,Wall-hung urinal,6910.10
+1237,Stall urinal,6910.10
+1238,SS kitchen sink single bowl,7324.10
+1239,SS kitchen sink double bowl,7324.10
+1240,SS sink with drainboard,7324.10
+1241,Shower head,7324.90
+1242,Shower arm,7324.90
+1243,Health faucet,8481.80
+1244,Angle valve 15mm,8481.80
+1245,Concealed stop valve,8481.80
+1246,PVC flush cistern,3922.20
+1247,Brass flush valve,8481.80
+1248,Urinal sensor flush valve,8481.80
+1249,SS floor drain 100mm,7324.90
+1250,SS gully trap,7324.90
+1251,PVC gully trap,3917.40
+1252,PVC nahin trap,3917.40
+1253,SS waste coupling,7324.90
+1254,Brass bottle trap,7418.20
+1255,PVC P-trap,3917.40
+1256,PVC S-trap,3917.40
+1257,SS flexible hose,8307.10
+1258,PVC flexible hose,3917.32
+1259,Tank float valve,8481.80
+1260,PVC tank connector,3917.40
+1261,Overflow pipe,3917.23
+1262,FRP inspection chamber cover,3926.90
+1263,CI manhole cover,7325.10
+1264,Composite manhole cover,3926.90
+1265,Rubber foot mat,4016.91
+1266,Toilet brush set,9603.90
+1267,Plastic soap dispenser,3924.90
+1268,SS tissue box,7324.90
+1269,SS grab bar 600mm,7324.90
+1270,Mirror cabinet,7009.92
+1271,Modular switch 1-way 6A,8536.50
+1272,Modular switch 2-way 6A,8536.50
+1273,Modular switch 16A,8536.50
+1274,Blank plate (modular),8538.90
+1275,Cover plate (modular),8538.90
+1276,Socket 6A 3-pin,8536.69
+1277,Socket 16A 3-pin,8536.69
+1278,Universal socket,8536.69
+1279,USB socket outlet,8536.69
+1280,RJ45 data outlet,8517.62
+1281,Telephone outlet,8517.62
+1282,TV outlet,8517.62
+1283,Bell push,8536.50
+1284,Ding-dong bell,8531.80
+1285,Surface MCB box,8538.90
+1286,Concealed GI box,8547.90
+1287,PVC junction box 20mm,3926.90
+1288,PVC conduit 20mm,3917.23
+1289,PVC conduit 25mm,3917.23
+1290,Conduit saddle,7326.90
+1291,Conduit bending spring,8205.59
+1292,Cable tie 200mm,3926.90
+1293,Cable clip 1.5mm,3926.90
+1294,Insulation tape,3919.10
+1295,PVC tape,3919.10
+1296,Cable gland 20mm,8547.90
+1297,Cable lug 16mm,8536.90
+1298,Cable lug 50mm,8536.90
+1299,Terminal block 6A,8536.90
+1300,Connector strip,8536.90
+1301,Earth clamp,8536.90
+1302,Test terminal,8536.90
+1303,Neutral link,8536.90
+1304,Changeover switch 63A,8536.50
+1305,Limit switch,8536.50
+1306,Push button (green),8536.50
+1307,Push button (red),8536.50
+1308,Indicator lamp (red),8531.80
+1309,Indicator lamp (green),8531.80
+1310,Selector switch,8536.50
+1311,LPG stove 2-burner,7321.11
+1312,LPG stove 4-burner,7321.11
+1313,Induction cooktop,8516.60
+1314,Microwave oven 20L,8516.50
+1315,OTG oven,8516.60
+1316,Refrigerator 190L,8418.21
+1317,Refrigerator 260L,8418.21
+1318,Deep freezer 300L,8418.30
+1319,Visi cooler,8418.50
+1320,RO water purifier,8421.21
+1321,Water dispenser,8516.10
+1322,Electric kettle,8516.10
+1323,Mixer grinder,8509.40
+1324,Dishwasher,8422.11
+1325,Kitchen chimney 900mm,8414.60
+1326,SS work table 1500mm,9403.20
+1327,SS wall shelf,9403.20
+1328,SS storage rack,9403.20
+1329,Kitchen exhaust fan 12 inch,8414.51
+1330,Geyser 15L,8516.10
+1331,Geyser 25L,8516.10
+1332,Solar water heater 100LPD,8419.12
+1333,Solar water heater 200LPD,8419.12
+1334,Hand dryer,8516.33
+1335,Auto soap dispenser,8424.89
+1336,SS dustbin 50L,7323.99
+1337,Plastic dustbin 50L,3924.90
+1338,Kitchen trolley,9403.20
+1339,Serving counter,9403.20
+1340,Bain-marie hot case,8516.79
+1341,Office desk 1200mm,9403.30
+1342,Executive desk,9403.30
+1343,Computer table,9403.30
+1344,Conference table,9403.30
+1345,Swivel office chair,9401.31
+1346,Visitor chair,9401.39
+1347,Revolving stool,9401.39
+1348,Sofa 2-seater,9401.61
+1349,Sofa 3-seater,9401.61
+1350,Filing cabinet 4-drawer,9403.10
+1351,Steel almirah,9403.10
+1352,Wooden wardrobe,9403.40
+1353,Bookshelf,9403.60
+1354,Side table,9403.60
+1355,Dining table,9403.60
+1356,Dining chair,9401.69
+1357,Plastic chair,9401.80
+1358,Plastic table,9403.70
+1359,Steel bench,9403.20
+1360,Reception counter,9403.60
+1361,Lab table,9403.20
+1362,Whiteboard,9610.00
+1363,Cork notice board,9610.00
+1364,Office partition screen,9403.60
+1365,Spring mattress,9404.21
+1366,Foam mattress,9404.29
+1367,Pillow,9404.90
+1368,Blackout curtain,6303.92
+1369,Curtain rod,8302.41
+1370,Vertical blinds,6303.92
+1371,Desktop computer,8471.50
+1372,Laptop,8471.30
+1373,Laser printer,8443.32
+1374,Inkjet printer,8443.32
+1375,Photocopier,8443.31
+1376,Scanner,8471.60
+1377,UPS 1kVA,8504.40
+1378,UPS 2kVA,8504.40
+1379,Inverter 1kVA,8504.40
+1380,Battery 40Ah,8507.20
+1381,Battery 100Ah,8507.20
+1382,Battery 150Ah,8507.20
+1383,Battery 200Ah,8507.20
+1384,Projector,8528.62
+1385,Projector screen,9010.60
+1386,CCTV camera,8525.89
+1387,DVR 8-channel,8521.90
+1388,NVR 16-channel,8521.90
+1389,Hard disk 1TB,8471.70
+1390,Router,8517.62
+1391,Network switch 24-port,8517.62
+1392,Intercom phone,8517.11
+1393,Walkie-talkie,8517.14
+1394,A4 paper (ream),4802.56
+1395,A3 paper (ream),4802.56
+1396,File folder,4820.50
+1397,Stapler,8205.59
+1398,Staple pins,8305.20
+1399,Paper clip,8305.90
+1400,Ball pen,9608.10
+1401,Grass broom,9603.90
+1402,Nylon broom,9603.90
+1403,Cotton mop,9603.90
+1404,Microfibre mop,9603.90
+1405,Mop bucket with wringer,3924.90
+1406,Floor wiper,9603.90
+1407,Scrubbing brush,9603.90
+1408,Toilet brush,9603.90
+1409,Detergent powder 1kg,3402.50
+1410,Detergent powder 5kg,3402.50
+1411,Dishwash liquid,3402.50
+1412,Floor cleaner 1L,3405.20
+1413,Glass cleaner,3405.30
+1414,Toilet cleaner,3405.90
+1415,Phenyl 1L,3808.94
+1416,Phenyl 5L,3808.94
+1417,Disinfectant 5L,3808.94
+1418,Room freshener,3307.49
+1419,Naphthalene balls,2902.41
+1420,Black garbage bag,3923.29
+1421,Dustbin 100L,3924.90
+1422,Handwash soap,3401.11
+1423,Hand sanitizer,3808.94
+1424,Paper towel roll,4818.20
+1425,Tissue paper,4818.20
+1426,Safety helmet (white),6506.10
+1427,Safety helmet (yellow),6506.10
+1428,Safety helmet (blue),6506.10
+1429,Reflective vest,6211.43
+1430,Coverall (workwear),6211.33
+1431,Raincoat,6210.10
+1432,Safety goggle,9004.90
+1433,Face shield,6506.99
+1434,Ear plug,9020.00
+1435,Ear muff,9020.00
+1436,N95 mask,6307.90
+1437,Dust mask,6307.90
+1438,Leather glove,4203.29
+1439,Rubber glove,4015.19
+1440,Cotton glove,6116.92
+1441,Safety harness,6307.90
+1442,Safety belt,6307.90
+1443,Lifeline rope,5607.50
+1444,Safety net,5608.19
+1445,Plastic barricade,3926.90
+1446,Traffic cone 750mm,3926.90
+1447,Caution tape 100m,3920.10
+1448,Site sign board,8310.00
+1449,Glow sign board,8310.00
+1450,First aid kit,3006.50
+1451,Auto level,9015.30
+1452,Dumpy level,9015.30
+1453,Total station,9015.20
+1454,Theodolite,9015.20
+1455,Laser level,9015.30
+1456,Survey GPS receiver,9015.80
+1457,Measuring wheel,9017.20
+1458,Digital distance meter,9015.10
+1459,Slump cone apparatus,9024.80
+1460,Cube mould (steel),8480.60
+1461,Platform weighing scale,8423.82
+1462,Table scale 10kg,8423.10
+1463,Spring balance 50kg,8423.10
+1464,Torque wrench,8204.11
+1465,Spanner set,8204.11
+1466,Socket wrench set,8204.20
+1467,Screwdriver set,8205.40
+1468,Plier set,8203.20
+1469,Hacksaw frame,8202.10
+1470,Pipe wrench,8204.12
+1471,Chain block 2-ton,8425.19
+1472,Wire rope sling,7312.10
+1473,D-shackle,7315.90
+1474,Turnbuckle,7326.90
+1475,Fibreglass ladder,3926.90
+1476,Diesel (HSD),2710.19
+1477,Petrol (motor spirit),2710.12
+1478,Kerosene,2710.19
+1479,Furnace oil,2710.19
+1480,LPG,2711.13
+1481,CNG,2711.21
+1482,Engine oil 15W40,2710.19
+1483,Engine oil 20W50,2710.19
+1484,Gear oil 90,2710.19
+1485,Hydraulic oil 68,2710.19
+1486,Transformer oil,2710.19
+1487,Grease,2710.19
+1488,Coolant,3820.00
+1489,Brake fluid,3819.00
+1490,AdBlue (urea solution),3102.80
+1491,Windshield washer fluid,3820.00
+1492,Oxygen cylinder,2804.40
+1493,Nitrogen cylinder,2804.30
+1494,Argon cylinder,2804.21
+1495,CO2 cylinder,2811.21
+1496,Firewood,4401.10
+1497,Charcoal,4402.90
+1498,Coal,2701.19
+1499,Coke,2704.00
+1500,Paraffin wax,2712.20
+no,material,hs_code
+1501,MS roof truss (fabricated),7308.90
+1502,Steel purlin,7216.31
+1503,Steel column (fabricated),7308.90
+1504,Steel beam (fabricated),7308.90
+1505,Steel platform grating,7308.90
+1506,Steel staircase (fabricated),7308.90
+1507,Steel ladder (fixed),7308.90
+1508,MS railing,7308.90
+1509,SS railing (fabricated),7326.90
+1510,Steel mezzanine floor,7308.90
+1511,Steel base plate,7308.90
+1512,Anchor bolt (HDG),7318.19
+1513,Holding-down bolt,7318.19
+1514,Steel bracket,7308.90
+1515,Steel gantry,7308.90
+1516,Lighting mast (steel),7308.20
+1517,Transmission tower,7308.20
+1518,Steel silo (fabricated),7309.00
+1519,Steel chimney stack,7308.90
+1520,Steel rolling shutter,7308.30
+1521,Steel sliding gate,7308.30
+1522,Steel swing gate,7308.30
+1523,Wicket gate,7308.30
+1524,Window grill (MS),7308.30
+1525,Expanded metal gate,7308.30
+1526,Steel joist,7216.32
+1527,Steel sheet pile,7301.10
+1528,Crane rail,7302.10
+1529,Rail clamp,7302.90
+1530,Steel bollard,7326.90
+1531,Floor cover plate (steel),7308.90
+1532,Trench cover (steel),7308.90
+1533,Angle lintel,7216.21
+1534,Embed plate,7308.90
+1535,Shear connector stud,7318.19
+1536,Welded mesh fabric,7314.19
+1537,Rebar coupler,7318.19
+1538,Prestressing strand,7312.10
+1539,PC bar,7312.10
+1540,Steel fibre (concrete),7326.90
+1541,Cuplock standard 3m,7308.40
+1542,Cuplock ledger 1.2m,7308.40
+1543,Cuplock brace,7308.40
+1544,Scaffold base jack,7308.40
+1545,Scaffold U-head jack,7308.40
+1546,Scaffold plank (steel),7308.40
+1547,Scaffold plank (wood),4407.99
+1548,Swivel coupler,7308.40
+1549,Right-angle coupler,7308.40
+1550,Scaffold tube 48mm,7306.30
+1551,Kwikstage standard,7308.40
+1552,Ringlock standard,7308.40
+1553,Adjustable steel prop,7308.40
+1554,Acrow prop,7308.40
+1555,Steel formwork panel,7308.40
+1556,Formwork tie rod,7318.19
+1557,Formwork cone,7318.19
+1558,Plastic cover spacer,3926.90
+1559,Plastic cover block,3926.90
+1560,Rebar chair,7326.90
+1561,Scaffold access ladder,7308.40
+1562,Toe board,4409.29
+1563,Guardrail post,7308.40
+1564,Debris netting,5608.19
+1565,Brick guard net,5608.19
+1566,Steel trestle,7308.40
+1567,Folding steel ladder,7326.90
+1568,Mobile scaffold tower,7308.40
+1569,Aluminium extension ladder,7616.99
+1570,Suspended cradle platform,8428.90
+1571,Split AC 1.0 ton,8415.10
+1572,Split AC 1.5 ton,8415.10
+1573,Split AC 2.0 ton,8415.10
+1574,Cassette AC 2 ton,8415.82
+1575,Ductable AC 4 ton,8415.82
+1576,Package AC 5 ton,8415.82
+1577,VRF outdoor unit,8415.82
+1578,VRF indoor unit,8415.82
+1579,Air-cooled chiller,8418.61
+1580,Cooling tower,8419.89
+1581,Air handling unit (AHU),8415.82
+1582,Fan coil unit (FCU),8415.82
+1583,Axial exhaust fan,8414.51
+1584,Inline duct fan,8414.51
+1585,Centrifugal blower,8414.59
+1586,Fresh air fan,8414.51
+1587,GI duct (rectangular),7326.90
+1588,Aluminium flexible duct,8307.10
+1589,Insulated flexible duct,3926.90
+1590,Duct insulation (glass wool),7019.90
+1591,Duct flange,7326.90
+1592,Volume control damper,8415.90
+1593,Fire damper,8415.90
+1594,Air grille,8415.90
+1595,Ceiling diffuser,8415.90
+1596,Aluminium louver,7610.10
+1597,Weather louver,7610.10
+1598,Air curtain,8414.51
+1599,Humidifier,8479.60
+1600,Dehumidifier,8479.60
+1601,Thermostat,9032.10
+1602,Duct pressure gauge,9026.20
+1603,Anemometer,9031.80
+1604,Refrigerant R410A,2903.39
+1605,Refrigerant R22,2903.79
+1606,Copper pipe 1/4 inch (AC),7411.10
+1607,Copper pipe 3/8 inch (AC),7411.10
+1608,Copper pipe 1/2 inch (AC),7411.10
+1609,Nitrile insulation tube,4016.10
+1610,Condensate pump,8413.70
+1611,Submersible pump 7.5HP,8413.70
+1612,Bore pump 10HP,8413.70
+1613,Hydro-pneumatic pump set,8413.70
+1614,Booster pump set,8413.70
+1615,Fire pump (diesel),8413.70
+1616,Jockey pump,8413.70
+1617,Sprinkler head,8424.89
+1618,Landing valve (hydrant),8481.80
+1619,Hose reel drum,8424.89
+1620,Fire hose (canvas),5909.00
+1621,Branch pipe (fire),8424.90
+1622,Siamese connection,8481.80
+1623,Water hammer arrestor,8481.80
+1624,Pressure reducing valve 50mm,8481.80
+1625,Air release valve,8481.80
+1626,Non-return valve 100mm,8481.30
+1627,Butterfly valve 150mm,8481.80
+1628,Y-type strainer 50mm,8421.29
+1629,Electromagnetic flow meter,9026.10
+1630,Water level sensor,9026.10
+1631,Float switch,8536.50
+1632,Pressure switch,9026.20
+1633,Expansion tank,7310.20
+1634,Diaphragm tank,7310.20
+1635,Water softener,8421.21
+1636,Activated carbon filter,8421.21
+1637,Pressure sand filter,8421.21
+1638,Chlorine dosing system,8424.89
+1639,UV sterilizer,8421.21
+1640,Ozone generator,8543.70
+1641,STP air blower,8414.59
+1642,Bubble diffuser (STP),3926.90
+1643,MBBR media,3926.90
+1644,Tube settler,3926.90
+1645,Sludge pump,8413.70
+1646,Grinder pump (submersible),8413.70
+1647,Grease trap (SS),8421.29
+1648,Oil-water separator,8421.29
+1649,Rainwater harvesting filter,8421.21
+1650,Percolation pit ring,6810.99
+1651,Solar panel 150W,8541.43
+1652,Solar panel 330W,8541.43
+1653,Solar panel 550W,8541.43
+1654,Solar inverter 1kW,8504.40
+1655,Solar inverter 5kW,8504.40
+1656,Hybrid inverter 10kW,8504.40
+1657,Solar charge controller,8504.40
+1658,Tubular solar battery,8507.20
+1659,Lithium battery (LiFePO4),8507.60
+1660,Solar street light 20W,9405.41
+1661,Solar home light 10W,9405.41
+1662,Solar water heater (ETC),8419.12
+1663,Solar water heater (FPC),8419.12
+1664,Solar pump 2HP,8413.70
+1665,Solar pump 5HP,8413.70
+1666,PV mounting structure,7308.90
+1667,PV module frame (Al),7610.10
+1668,MC4 connector,8536.90
+1669,PV DC cable 4sqmm,8544.49
+1670,Lightning arrester,8535.40
+1671,Solar earthing kit,8538.90
+1672,Net meter,9028.30
+1673,Bi-directional meter,9028.30
+1674,Small wind turbine,8502.31
+1675,Micro-hydro turbine,8410.10
+1676,Prefab biogas plant,8419.89
+1677,Solar fence energizer,8543.70
+1678,Solar dryer,8419.39
+1679,Solar lantern,9405.41
+1680,PV junction box,8541.90
+1681,Compression testing machine,9024.80
+1682,Universal testing machine,9024.80
+1683,Slump cone,9024.80
+1684,Cube mould 150mm,8480.60
+1685,Cylinder mould,8480.60
+1686,Vicat apparatus,9024.80
+1687,Aggregate sieve set,9024.80
+1688,Laboratory oven,8514.10
+1689,Precision balance (0.01g),9016.00
+1690,Platform scale 100kg,8423.82
+1691,Density kit,9024.80
+1692,Rebound hammer,9024.80
+1693,Ultrasonic pulse velocity tester,9031.80
+1694,TDS meter,9027.80
+1695,pH meter,9027.80
+1696,Turbidity meter,9027.80
+1697,Chlorine test kit,3822.90
+1698,Water analysis kit,3822.90
+1699,Soil testing kit,3822.90
+1700,Proctor compaction apparatus,9024.80
+1701,CBR test apparatus,9024.80
+1702,Atterberg limits set,9024.80
+1703,Core cutter,9024.80
+1704,Plate load test kit,9024.80
+1705,Pile integrity tester,9031.80
+1706,Digital theodolite,9015.20
+1707,3D laser scanner,9015.20
+1708,Survey drone,8806.91
+1709,Handheld GPS,8526.91
+1710,Moisture meter,9027.80
+1711,Jute bag (cement),6305.10
+1712,PP woven bag,6305.33
+1713,HDPE sack,6305.33
+1714,Gunny bag,6305.10
+1715,Carton box (5-ply),4819.10
+1716,Corrugated box,4819.10
+1717,Stretch film,3920.10
+1718,Bubble wrap,3921.11
+1719,BOPP packing tape,3919.10
+1720,PET strapping band,3916.90
+1721,Steel strapping,7217.20
+1722,Wooden pallet,4415.20
+1723,Plastic pallet,3923.90
+1724,Steel drum 210L,7310.20
+1725,Plastic drum 210L,3923.30
+1726,IBC tote 1000L,3925.10
+1727,Jerry can 20L,3923.30
+1728,Hand pallet truck,8427.90
+1729,Forklift 3-ton,8427.10
+1730,Mobile crane 25t,8705.10
+1731,Tower crane,8426.20
+1732,Material hoist,8428.10
+1733,Winch 1-ton,8425.31
+1734,Chain block 1-ton,8425.19
+1735,Lever hoist,8425.19
+1736,Platform trolley,8716.80
+1737,Drum trolley,8716.80
+1738,Sack truck,8716.80
+1739,Rubber conveyor belt,4010.11
+1740,Heavy storage rack,9403.20
+1741,Marking chalk,9609.10
+1742,Marking thread (blue),5607.50
+1743,Concrete nail,7317.00
+1744,Cartridge nail,7317.00
+1745,Metal cutting disc,6804.22
+1746,Grinding disc,6804.21
+1747,Diamond blade,6804.21
+1748,SDS max drill bit,8207.50
+1749,Point chisel,8205.59
+1750,Cold chisel,8205.59
+1751,Welding electrode 3.15mm,8311.10
+1752,Welding electrode 4mm,8311.10
+1753,MIG wire 0.8mm,8311.30
+1754,CO2 gas (welding),2811.21
+1755,Argon gas,2804.21
+1756,Oxygen gas,2804.40
+1757,Nitrogen gas,2804.30
+1758,Bench grinding wheel,6804.21
+1759,Wire brush,9603.90
+1760,Emery cloth,6805.10
+1761,Hessian cloth,5310.10
+1762,Curing hessian,5310.10
+1763,Polythene sheet 200-micron,3920.10
+1764,Bitumen tape,6807.10
+1765,Denso tape,2715.00
+1766,Pipe wrap tape,3919.10
+1767,PTFE thread seal tape,3919.10
+1768,Rubber gasket,4016.93
+1769,CAF gasket,6812.99
+1770,O-ring,4016.93
+1771,Motor 1HP (3-phase),8501.40
+1772,Motor 2HP,8501.40
+1773,Motor 5HP,8501.40
+1774,Motor 10HP,8501.40
+1775,Motor 20HP,8501.40
+1776,Motor 50HP,8501.40
+1777,Gear motor,8501.40
+1778,VFD 5HP,8504.40
+1779,VFD 10HP,8504.40
+1780,Soft starter 15kW,8504.40
+1781,Transformer 100kVA (oil),8504.21
+1782,Transformer 250kVA (oil),8504.21
+1783,Transformer 500kVA (oil),8504.21
+1784,Dry-type transformer 1000kVA,8504.34
+1785,APFC panel,8537.10
+1786,Capacitor bank 10kVAr,8532.10
+1787,DG set 25kVA,8502.11
+1788,DG set 62.5kVA,8502.11
+1789,DG set 100kVA,8502.12
+1790,DG set 250kVA,8502.12
+1791,DG set 500kVA,8502.13
+1792,ATS panel,8537.10
+1793,Synchronizing panel,8537.10
+1794,Copper bus duct,8536.90
+1795,LT panel 400A,8537.10
+1796,HT panel 11kV,8537.20
+1797,Vacuum circuit breaker 11kV,8535.21
+1798,Isolator 11kV,8535.30
+1799,Surge arrester 11kV,8535.40
+1800,Instrument transformer set 11kV,8504.21
+1801,FRLS wire 1.5sqmm (red),8544.49
+1802,FRLS wire 1.5sqmm (black),8544.49
+1803,FRLS wire 2.5sqmm (yellow),8544.49
+1804,FRLS wire 4sqmm (blue),8544.49
+1805,FRLS wire 6sqmm (green),8544.49
+1806,Earth wire 2.5sqmm (green),8544.49
+1807,Multicore control cable 10C,8544.49
+1808,Instrumentation cable 1-pair,8544.49
+1809,Instrumentation cable 4-pair,8544.49
+1810,Thermocouple compensating cable,8544.49
+1811,Solar DC cable 6sqmm,8544.49
+1812,Battery cable 35sqmm,8544.49
+1813,HT cable 11kV 3C x 240mm,8544.60
+1814,Aerial bunched cable 4C,8544.49
+1815,Service main cable 4C x 95mm,8544.49
+1816,Flexible cord 2C x 0.75mm,8544.49
+1817,Extension reel 15m,8544.42
+1818,Spike guard,8536.30
+1819,Battery connector set,8536.90
+1820,Cable marker,3926.90
+1821,Wiring ferrule set,8536.90
+1822,Crimping tool,8205.59
+1823,Cable cutter,8203.30
+1824,Wire stripper,8203.20
+1825,Insulation tester (megger),9030.31
+1826,Clamp meter,9030.31
+1827,Multimeter,9030.31
+1828,Earth tester,9030.31
+1829,Lux meter,9027.80
+1830,Thermal imaging camera,9027.50
+1831,Vitrified skirting 100mm,6907.23
+1832,Granite skirting,6802.93
+1833,Marble skirting,6802.91
+1834,Teak skirting,4409.29
+1835,PVC skirting 50mm,3916.20
+1836,WPC wall panel,3925.90
+1837,Charcoal fluted panel,3925.90
+1838,PU cornice,3916.20
+1839,GRC cornice,6810.99
+1840,GRC jali,6810.99
+1841,FRP jali,3926.90
+1842,MS jali (laser-cut),7326.90
+1843,Aluminium jali,7616.99
+1844,Wooden jali,4421.99
+1845,Wallpaper,4814.20
+1846,PVC marble wall panel,3925.90
+1847,Carpet tile,5703.39
+1848,Vinyl flooring 2mm,3918.10
+1849,Rubber flooring 3mm,4008.21
+1850,Epoxy self-level flooring,3208.90
+1851,PU flooring,3208.90
+1852,Teak wood flooring,4409.29
+1853,Laminate flooring 8mm,4411.13
+1854,Engineered wood flooring,4412.39
+1855,Bamboo flooring,4409.22
+1856,Gypsum ceiling accessory set,6809.90
+1857,Ceiling rose,3925.90
+1858,Cove light channel,7604.21
+1859,LED strip 12V,9405.11
+1860,LED driver 60W,8504.40
+1861,LED dimmer,8536.50
+1862,Aluminium curtain track,8302.41
+1863,Coir door mat,5705.00
+1864,Rubber entrance mat,4016.91
+1865,Aluminium stair nosing,7604.21
+1866,Brass stair nosing,7418.20
+1867,SS handrail bracket,7326.90
+1868,Glass balustrade clamp,7616.99
+1869,Glass spider fitting,7326.90
+1870,Glass door patch fitting,8302.41
+1871,Bitumen emulsion CRS,2715.00
+1872,Bitumen VG30,2713.20
+1873,Tack coat emulsion,2715.00
+1874,Prime coat,2715.00
+1875,Road base aggregate,2517.10
+1876,WMM mix,2517.10
+1877,GSB mix,2517.10
+1878,DBM mix,2715.00
+1879,Asphalt concrete mix,2715.00
+1880,Concrete paver block,6810.10
+1881,Concrete kerb stone,6810.10
+1882,SFRC chamber cover,6810.99
+1883,Reflective road stud,8310.00
+1884,Thermoplastic road marking,3208.90
+1885,Road paint (white),3208.90
+1886,Reflective sign sheet,8310.00
+1887,Metal beam guard rail,7308.90
+1888,Concrete crash barrier,6810.99
+1889,Rubber speed breaker,4016.99
+1890,Median marker,3926.90
+1891,Street light pole 6m,7308.20
+1892,Street light pole 9m,7308.20
+1893,High-mast 30m,7308.20
+1894,Street light luminaire 90W,9405.11
+1895,Flood light pole 15m,7308.20
+1896,CI manhole frame,7325.10
+1897,CI gully grating,7325.10
+1898,CI drain cover,7325.10
+1899,Footpath tile (concrete),6810.10
+1900,MS tree guard,7326.90
+1901,Chain-link fence 50mm,7314.19
+1902,Barbed wire (GI),7313.00
+1903,Concertina coil,7313.00
+1904,Welded mesh fence panel,7314.19
+1905,RCC fence post,6810.99
+1906,MS angle fence post,7216.21
+1907,Y-arm (fence),7326.90
+1908,Razor wire,7313.00
+1909,Electric fence energizer,8543.70
+1910,Electric fence wire,7217.20
+1911,Fence insulator,8546.90
+1912,Sliding MS gate,7308.30
+1913,Swing MS gate,7308.30
+1914,Gate operator motor,8501.10
+1915,Boom barrier,8530.80
+1916,Turnstile gate,7308.30
+1917,Gate wheel,8302.20
+1918,Heavy gate hinge,8302.10
+1919,Gate latch,8301.60
+1920,Brass padlock,8301.10
+1921,Precast boundary panel,6810.91
+1922,Fence stretcher bar,7326.90
+1923,Fence tie wire,7217.20
+1924,Fence warning board,8310.00
+1925,Anti-climb spike,7326.90
+1926,PU foam spray,3907.40
+1927,PIR panel,3921.13
+1928,Glass wool slab 50mm,7019.90
+1929,Rock wool slab 100mm,6806.90
+1930,Thermocol sheet 50mm,3921.11
+1931,Reflective foil (single),7607.20
+1932,Bubble insulation 10mm,7607.20
+1933,PE vapor barrier,3920.10
+1934,DPC sheet (bitumen),6807.10
+1935,DPC mortar course,3824.50
+1936,Cavity drain membrane,3925.90
+1937,PU injection grout,3907.40
+1938,Epoxy injection grout,3506.91
+1939,Microfine cement grout,3824.50
+1940,Bentonite sheet,2508.10
+1941,HDPE geomembrane 1.5mm,3920.10
+1942,PVC geomembrane,3920.49
+1943,Geocell,3926.90
+1944,Geogrid,3926.90
+1945,Drainage geocomposite,5603.94
+1946,Roof safety anchor,7326.90
+1947,Fall arrest block,6307.90
+1948,Safety line anchor,7326.90
+1949,HDPE monsoon sheet,6306.12
+1950,Shrink-wrap film,3920.10
+1951,SS self-drill screw,7318.14
+1952,MS self-drill screw,7318.14
+1953,Wedge anchor bolt,7318.19
+1954,Sleeve anchor 10mm,7318.19
+1955,Drop-in anchor,7318.19
+1956,Heavy-duty anchor,7318.19
+1957,Threaded stud rod,7318.15
+1958,U-bolt 50mm,7318.15
+1959,J-bolt,7318.15
+1960,L-bolt,7318.15
+1961,Foundation bolt M24,7318.15
+1962,SS bolt M10,7318.15
+1963,SS nut M10,7318.16
+1964,SS washer M10,7318.22
+1965,EPDM washer,4016.93
+1966,Nylon insert nut,7318.16
+1967,Wing nut,7318.16
+1968,Cotter pin,7318.24
+1969,Split pin,7318.24
+1970,Circlip,7320.90
+1971,Hex key,8204.11
+1972,Allen key set,8204.11
+1973,Bench vice,8205.70
+1974,Grease gun,8424.89
+1975,Oil can,7323.99
+1976,Epoxy primer (concrete),3208.90
+1977,Epoxy mortar,3824.50
+1978,Epoxy bonding agent,3506.91
+1979,Acrylic bonding agent,3506.10
+1980,SBR latex,4002.19
+1981,PVA bonding agent,3506.10
+1982,PU construction adhesive,3506.91
+1983,MS polymer sealant,3506.91
+1984,Epoxy anchor adhesive,3506.91
+1985,Epoxy tile grout,3506.91
+1986,Cement tile grout,3824.50
+1987,Zinc anti-corrosive paint,3208.90
+1988,Cold galvanizing spray,3208.90
+1989,Rust converter,3810.10
+1990,Mould release oil,2710.19
+1991,Chemical release agent,3824.99
+1992,PCE admixture,3824.40
+1993,Powder set retarder,3824.40
+1994,Dry-shake floor hardener,3824.50
+1995,Concrete densifier,3824.99
+1996,Anti-skid coating,3208.90
+1997,Fire-retardant paint,3208.90
+1998,Intumescent paint,3208.90
+1999,Anti-graffiti coating,3208.90
+2000,Self-cleaning coating,3208.90
+no,material,hs_code
+2001,PVC pipe 180mm,3917.23
+2002,PVC pipe 200mm,3917.23
+2003,PVC pipe 250mm,3917.23
+2004,CPVC pipe 65mm,3917.23
+2005,CPVC pipe 80mm,3917.23
+2006,PPR pipe 75mm,3917.22
+2007,PPR pipe 90mm,3917.22
+2008,PPR pipe 110mm,3917.22
+2009,HDPE pipe 140mm,3917.21
+2010,HDPE pipe 160mm,3917.21
+2011,HDPE pipe 200mm,3917.21
+2012,uPVC DWV pipe 200mm,3917.23
+2013,uPVC DWV pipe 250mm,3917.23
+2014,SWR pipe 75mm,3917.23
+2015,SWR pipe 110mm,3917.23
+2016,SWR pipe 160mm,3917.23
+2017,PVC elbow 32mm,3917.40
+2018,PVC elbow 50mm,3917.40
+2019,PVC elbow 75mm,3917.40
+2020,PVC elbow 110mm,3917.40
+2021,PVC tee 32mm,3917.40
+2022,PVC tee 50mm,3917.40
+2023,PVC tee 160mm,3917.40
+2024,PVC bend 45deg 110mm,3917.40
+2025,PVC bend 45deg 160mm,3917.40
+2026,PVC reducer 75x50mm,3917.40
+2027,PVC reducer 160x110mm,3917.40
+2028,PVC coupling 75mm,3917.40
+2029,PVC coupling 160mm,3917.40
+2030,CPVC elbow 25mm,3917.40
+2031,CPVC elbow 32mm,3917.40
+2032,CPVC tee 20mm,3917.40
+2033,CPVC tee 32mm,3917.40
+2034,CPVC reducer 25x20mm,3917.40
+2035,PPR elbow 32mm,3917.40
+2036,PPR tee 25mm,3917.40
+2037,PPR reducer 32x25mm,3917.40
+2038,HDPE elbow 63mm,3917.40
+2039,HDPE tee 63mm,3917.40
+2040,HDPE end cap 110mm,3917.40
+2041,Gate valve 100mm,8481.80
+2042,Gate valve 150mm,8481.80
+2043,Gate valve 200mm,8481.80
+2044,Ball valve 32mm,8481.80
+2045,Ball valve 40mm,8481.80
+2046,Ball valve 65mm,8481.80
+2047,Ball valve 80mm,8481.80
+2048,Ball valve 100mm,8481.80
+2049,Check valve 100mm,8481.30
+2050,Check valve 150mm,8481.30
+2051,Foot valve 50mm,8481.30
+2052,Foot valve 65mm,8481.30
+2053,Foot valve 80mm,8481.30
+2054,Float valve 40mm,8481.80
+2055,Float valve 50mm,8481.80
+2056,Bib cock 25mm,8481.80
+2057,Angle cock 20mm,8481.80
+2058,Pillar cock 20mm,8481.80
+2059,Concealed stop valve 20mm,8481.80
+2060,Flush valve 50mm,8481.80
+2061,Butterfly valve 100mm,8481.80
+2062,Butterfly valve 200mm,8481.80
+2063,Butterfly valve 250mm,8481.80
+2064,Globe valve 25mm,8481.80
+2065,Globe valve 50mm,8481.80
+2066,Globe valve 80mm,8481.80
+2067,Pressure reducing valve 25mm,8481.80
+2068,Pressure reducing valve 80mm,8481.80
+2069,Air release valve 25mm,8481.80
+2070,Sluice valve 300mm,8481.80
+2071,EWC set (wall-hung),6910.10
+2072,EWC set (floor-mounted),6910.10
+2073,Smart EWC with bidet,6910.10
+2074,Orissa pan 450mm,6910.10
+2075,Orissa pan 630mm,6910.10
+2076,Wash basin 450x350mm,6910.10
+2077,Wash basin 550x450mm,6910.10
+2078,Wash basin 600x450mm,6910.10
+2079,Urinal 400mm,6910.10
+2080,Urinal 500mm,6910.10
+2081,Ceramic squatting plate,6910.10
+2082,Ceramic cistern (low-level),6910.10
+2083,Ceramic soap dish,6912.00
+2084,Ceramic towel ring,6914.90
+2085,Ceramic tumbler holder,6912.00
+2086,SS sink 450x400mm,7324.10
+2087,SS sink 750x400mm,7324.10
+2088,SS sink 1000x500mm,7324.10
+2089,SS urinal,7324.90
+2090,SS wash basin,7324.90
+2091,Glass shower cubicle,7007.19
+2092,Acrylic shower tray,3922.10
+2093,Acrylic bath tub,3922.10
+2094,Cast iron bath tub,7324.21
+2095,Jacuzzi spa tub,3922.10
+2096,Sauna room set,9406.90
+2097,Steam bath unit,8419.89
+2098,HPL toilet partition,3921.90
+2099,SS tissue holder,7324.90
+2100,Toilet cleaning brush set,9603.90
+2101,Cu wire 0.5 sqmm,8544.49
+2102,Cu wire 0.75 sqmm,8544.49
+2103,Cu wire 400 sqmm,8544.49
+2104,Al wire 2.5 sqmm,8544.49
+2105,Al wire 4 sqmm,8544.49
+2106,Al aerial cable 2C,8544.49
+2107,2C x 4 sqmm cable,8544.49
+2108,2C x 6 sqmm cable,8544.49
+2109,2C x 10 sqmm cable,8544.49
+2110,3C x 1.0 sqmm cable,8544.49
+2111,3C x 6 sqmm cable,8544.49
+2112,3C x 10 sqmm cable,8544.49
+2113,3C x 16 sqmm cable,8544.49
+2114,3C x 25 sqmm cable,8544.49
+2115,4C x 1.5 sqmm cable,8544.49
+2116,4C x 2.5 sqmm cable,8544.49
+2117,4C x 35 sqmm cable,8544.49
+2118,4C x 50 sqmm cable,8544.49
+2119,4C x 70 sqmm cable,8544.49
+2120,4C x 95 sqmm cable,8544.49
+2121,5C x 4 sqmm cable,8544.49
+2122,5C x 6 sqmm cable,8544.49
+2123,12C x 1.5 sqmm control cable,8544.49
+2124,19C x 1.5 sqmm control cable,8544.49
+2125,25C x 1.5 sqmm control cable,8544.49
+2126,11kV HT cable 3C x 50mm,8544.60
+2127,11kV HT cable 3C x 120mm,8544.60
+2128,11kV HT cable 3C x 240mm,8544.60
+2129,33kV HT cable 1C x 150mm,8544.60
+2130,Fibre optic 48-core cable,8544.70
+2131,MCB 1A SP,8536.20
+2132,MCB 2A SP,8536.20
+2133,MCB 4A SP,8536.20
+2134,MCB 50A SP,8536.20
+2135,MCB 6A DP,8536.20
+2136,MCB 10A DP,8536.20
+2137,MCB 20A DP,8536.20
+2138,MCB 40A DP,8536.20
+2139,MCB 6A TP,8536.20
+2140,MCB 10A TP,8536.20
+2141,MCB 20A TP,8536.20
+2142,MCB 125A TP,8536.20
+2143,RCCB 25A 4P 30mA,8536.20
+2144,RCCB 40A 4P 30mA,8536.20
+2145,RCCB 80A 4P 100mA,8536.20
+2146,RCCB 100A 4P 300mA,8536.20
+2147,MCCB 63A,8536.20
+2148,MCCB 100A,8536.20
+2149,MCCB 250A,8536.20
+2150,MCCB 400A,8536.20
+2151,MCCB 630A,8536.20
+2152,ACB 800A,8536.20
+2153,ACB 1250A,8536.20
+2154,ACB 1600A,8536.20
+2155,Isolator 200A TP,8536.50
+2156,Isolator 250A TP,8536.50
+2157,Isolator 400A TP,8536.50
+2158,Changeover switch 32A TP,8536.50
+2159,Changeover switch 160A TP,8536.50
+2160,Changeover switch 250A TP,8536.50
+2161,LED bulb 5W,8539.52
+2162,LED bulb 7W,8539.52
+2163,LED bulb 30W,8539.52
+2164,LED bulb 40W,8539.52
+2165,LED tube 22W 5ft,8539.52
+2166,LED tube 24W 8ft,8539.52
+2167,LED panel 9W round,9405.11
+2168,LED panel 15W round,9405.11
+2169,LED panel 24W square,9405.11
+2170,LED panel 40W square,9405.11
+2171,LED flood light 10W,9405.11
+2172,LED flood light 20W,9405.11
+2173,LED flood light 30W,9405.11
+2174,LED flood light 400W,9405.11
+2175,LED street light 30W,9405.11
+2176,LED street light 60W,9405.11
+2177,LED street light 150W,9405.11
+2178,LED street light 240W,9405.11
+2179,LED high-bay 200W,9405.11
+2180,LED well-glass 40W,9405.11
+2181,LED track light 30W,9405.11
+2182,LED wall washer 36W,9405.11
+2183,LED garden light 20W,9405.11
+2184,LED bollard light 12W,9405.11
+2185,LED string light set,9405.30
+2186,Floor tile 200x200,6907.21
+2187,Floor tile 250x250,6907.21
+2188,Floor tile 300x600,6907.21
+2189,Floor tile 400x800,6907.21
+2190,Floor tile 600x900,6907.21
+2191,Floor tile 600x1200,6907.21
+2192,Wall tile 150x150,6907.23
+2193,Wall tile 200x250,6907.23
+2194,Wall tile 250x400,6907.23
+2195,Wall tile 300x900,6907.23
+2196,Wall tile 400x800,6907.23
+2197,Anti-skid tile 400x400,6907.22
+2198,Anti-skid tile 600x600,6907.22
+2199,Parking tile 600x600,6907.21
+2200,Heavy-duty tile 300x300,6907.21
+2201,Mosaic tile 50x50,6907.22
+2202,Mosaic tile 100x100,6907.22
+2203,Skirting tile 800x100,6907.23
+2204,Stair nosing tile,6907.21
+2205,Corner tile (wall),6907.23
+2206,Border tile (decorative),6907.22
+2207,Highlighter tile,6907.22
+2208,Rustic tile 600x600,6907.21
+2209,Wooden-look tile 200x1200,6907.21
+2210,Marble-look tile 800x1600,6907.21
+2211,Terrazzo tile 400x400,6810.10
+2212,Cement tile 300x300,6810.10
+2213,Clay roof tile,6906.00
+2214,Mangalore roof tile,6906.00
+2215,Concrete roof tile,6810.10
+2216,Float glass 3mm,7005.29
+2217,Float glass 8mm,7005.29
+2218,Float glass 15mm,7005.29
+2219,Float glass 19mm,7005.29
+2220,Tempered glass 5mm,7007.19
+2221,Tempered glass 6mm,7007.19
+2222,Tempered glass 15mm,7007.19
+2223,Tempered glass 19mm,7007.19
+2224,Laminated glass 5+5mm,7007.29
+2225,Laminated glass 10+10mm,7007.29
+2226,Double-glazed unit (DGU),7008.00
+2227,Frosted glass 6mm,7006.00
+2228,Etched glass 8mm,7006.00
+2229,Printed glass 8mm,7006.00
+2230,Mirror 6mm,7009.92
+2231,Tinted mirror 5mm,7009.92
+2232,Aluminium box section 25x25,7604.21
+2233,Aluminium T-profile,7604.21
+2234,Aluminium U-channel,7604.21
+2235,Aluminium L-angle,7604.21
+2236,Aluminium H-section,7604.21
+2237,Aluminium glazing bead,7604.21
+2238,Aluminium cover strip,7604.21
+2239,Aluminium skirting,7604.21
+2240,Aluminium handrail profile,7604.21
+2241,ACP sheet 5mm,7606.12
+2242,Aluminium honeycomb panel,7606.12
+2243,Aluminium perforated sheet,7606.12
+2244,Aluminium expanded mesh,7616.99
+2245,Aluminium step ladder,7616.99
+2246,Marine ply 4mm,4412.39
+2247,Marine ply 16mm,4412.39
+2248,Marine ply 25mm,4412.39
+2249,Commercial ply 16mm,4412.39
+2250,Commercial ply 25mm,4412.39
+2251,Teak ply 12mm,4412.33
+2252,Teak ply 18mm,4412.33
+2253,Film-faced ply 9mm,4412.39
+2254,Film-faced ply 15mm,4412.39
+2255,Film-faced ply 21mm,4412.39
+2256,MDF 3mm,4411.13
+2257,MDF 25mm,4411.13
+2258,HDF 6mm,4411.14
+2259,HDF 18mm,4411.14
+2260,Particle board 6mm,4410.11
+2261,OSB 9mm,4410.12
+2262,OSB 18mm,4410.12
+2263,Timber 25x25mm,4407.99
+2264,Timber 38x38mm,4407.99
+2265,Timber 50x50mm,4407.99
+2266,Timber 75x75mm,4407.99
+2267,Timber 100x100mm,4407.99
+2268,Timber plank 25mm,4407.99
+2269,Timber plank 50mm,4407.99
+2270,Flush door 700x2100,4418.20
+2271,Flush door 1000x2100,4418.20
+2272,Double-leaf door 1200x2100,4418.20
+2273,Aluminium window 900x1200,7610.10
+2274,Aluminium window 1200x1500,7610.10
+2275,UPVC window 1500x1500,3925.20
+2276,Interior emulsion 1L (white),3209.10
+2277,Interior emulsion 4L (white),3209.10
+2278,Interior emulsion 10L (white),3209.10
+2279,Exterior emulsion 1L,3209.10
+2280,Exterior emulsion 4L (base),3209.10
+2281,Exterior emulsion 10L (base),3209.10
+2282,Acrylic primer 1L,3209.90
+2283,Acrylic primer 4L (white),3209.90
+2284,Enamel 20L (white),3208.20
+2285,Enamel 20L (black),3208.20
+2286,Enamel 4L (blue),3208.20
+2287,Enamel 4L (green),3208.20
+2288,Red oxide 1L,3208.90
+2289,Red oxide 10L,3208.90
+2290,Epoxy paint 1L,3208.90
+2291,PU paint 4L,3208.90
+2292,Bitumen paint 1L,2715.00
+2293,Bitumen paint 5L,2715.00
+2294,Distemper 5kg,3209.90
+2295,Cement paint 5kg,3210.00
+2296,Wall putty 1kg,3214.10
+2297,Wall putty 5kg,3214.10
+2298,Thinner 1L,3814.00
+2299,Thinner 10L,3814.00
+2300,Turpentine 5L,3805.40
+2301,SS hinge 2 inch,8302.10
+2302,SS hinge 3 inch,8302.10
+2303,SS hinge 5 inch,8302.10
+2304,SS hinge 6 inch,8302.10
+2305,Brass hinge 3 inch,8302.10
+2306,Brass hinge 5 inch,8302.10
+2307,Tower bolt 6 inch,8302.41
+2308,Tower bolt 8 inch,8302.41
+2309,Tower bolt 10 inch,8302.41
+2310,Aldrop 6 inch,8302.41
+2311,Aldrop 10 inch,8302.41
+2312,Aldrop 12 inch,8302.41
+2313,Magnetic door stopper,8302.50
+2314,Rubber-tip door stopper,8302.50
+2315,Lever handle (SS 304),8302.49
+2316,Lever handle (SS 316),8302.49
+2317,Pull handle 300mm,8302.49
+2318,Pull handle 600mm,8302.49
+2319,Pull handle 1200mm,8302.49
+2320,Cabinet handle 128mm,8302.49
+2321,Cabinet knob,8302.49
+2322,Drawer slide 400mm,8302.42
+2323,Drawer slide 500mm,8302.42
+2324,Gas spring (cabinet),7320.90
+2325,Caster wheel 2 inch,8302.20
+2326,Caster wheel 4 inch,8302.20
+2327,Caster wheel 5 inch,8302.20
+2328,Padlock 30mm,8301.10
+2329,Padlock 40mm,8301.10
+2330,Padlock 60mm,8301.10
+2331,Hex bolt M6x20,7318.15
+2332,Hex bolt M8x25,7318.15
+2333,Hex bolt M10x30,7318.15
+2334,Hex bolt M12x40,7318.15
+2335,Hex bolt M16x50,7318.15
+2336,Hex bolt M20x60,7318.15
+2337,Hex bolt M24x80,7318.15
+2338,Hex nut M6,7318.16
+2339,Hex nut M24,7318.16
+2340,Flat washer M6,7318.22
+2341,Flat washer M8,7318.22
+2342,Flat washer M16,7318.22
+2343,Flat washer M20,7318.22
+2344,Spring washer M8,7318.21
+2345,Spring washer M16,7318.21
+2346,Self-tap screw 3x20,7318.14
+2347,Self-tap screw 6x50,7318.14
+2348,Drywall screw 35mm,7318.14
+2349,Drywall screw 50mm,7318.14
+2350,Machine screw M4x16,7318.15
+2351,Machine screw M6x25,7318.15
+2352,Anchor fastener 6x60,7318.19
+2353,Anchor fastener 16x150,7318.19
+2354,Chemical anchor M20,3506.90
+2355,Rawl plug 12mm,3926.90
+2356,Rivet 3x8,7318.23
+2357,Rivet 6x15,7318.23
+2358,Nail 20mm,7317.00
+2359,Nail 60mm,7317.00
+2360,Nail 125mm,7317.00
+2361,HSS drill bit 4mm,8207.50
+2362,HSS drill bit 5mm,8207.50
+2363,HSS drill bit 16mm,8207.50
+2364,HSS drill bit 20mm,8207.50
+2365,Masonry bit 6mm,8207.50
+2366,Masonry bit 16mm,8207.50
+2367,SDS bit 8mm,8207.50
+2368,SDS bit 16mm,8207.50
+2369,Diamond core bit 50mm,8207.50
+2370,Diamond core bit 100mm,8207.50
+2371,Cutting blade 9 inch,6804.22
+2372,Cutting blade 12 inch,6804.22
+2373,Grinding wheel 9 inch,6804.21
+2374,Flap disc 4 inch,6805.10
+2375,Flap disc 7 inch,6805.10
+2376,Sandpaper 60 grit,6805.20
+2377,Sandpaper 400 grit,6805.20
+2378,Paint brush 1.5 inch,9603.40
+2379,Paint brush 3 inch,9603.40
+2380,Paint brush 6 inch,9603.40
+2381,Roller sleeve (textured),9603.40
+2382,Putty blade,8205.59
+2383,Scraper,8205.59
+2384,Marking chalk powder (blue),9609.10
+2385,Nylon thread bobbin,5607.50
+2386,Plumb bob 500g,9015.30
+2387,Straight edge 2m,9017.80
+2388,Try square,9017.80
+2389,Bevel gauge,8205.59
+2390,Nail punch,8205.59
+2391,Submersible pump 0.25HP,8413.70
+2392,Submersible pump 1.5HP,8413.70
+2393,Submersible pump 4HP,8413.70
+2394,Submersible pump 10HP,8413.70
+2395,Open-well pump 1HP,8413.70
+2396,Open-well pump 2HP,8413.70
+2397,Centrifugal pump 1HP,8413.70
+2398,Centrifugal pump 2HP,8413.70
+2399,Centrifugal pump 7.5HP,8413.70
+2400,Centrifugal pump 10HP,8413.70
+2401,Mono block pump 1HP,8413.70
+2402,Mono block pump 2HP,8413.70
+2403,Motor 0.5HP,8501.40
+2404,Motor 3HP,8501.40
+2405,Motor 7.5HP,8501.40
+2406,Motor 15HP,8501.40
+2407,Motor 30HP,8501.40
+2408,Motor 75HP,8501.40
+2409,Single-phase motor 1HP,8501.40
+2410,Single-phase motor 2HP,8501.40
+2411,DG set 5kVA (silent),8502.11
+2412,DG set 10kVA,8502.11
+2413,DG set 30kVA,8502.11
+2414,DG set 75kVA,8502.12
+2415,DG set 180kVA,8502.12
+2416,DG set 380kVA,8502.12
+2417,DG set 750kVA,8502.13
+2418,Mini concrete mixer,8474.31
+2419,Reversible mixer,8474.31
+2420,Transit mixer 6cum,8705.40
+2421,Safety helmet (green),6506.10
+2422,Safety helmet (red),6506.10
+2423,Helmet chin strap,6507.00
+2424,Retro-reflective tape,3919.10
+2425,Safety vest (orange),6211.43
+2426,Cotton coverall,6211.42
+2427,Leather welding apron,4203.40
+2428,Welding glove,4203.29
+2429,Safety goggle (clear),9004.90
+2430,Safety goggle (tinted),9004.90
+2431,Auto-darkening welding helmet,6506.99
+2432,Half-face respirator,9020.00
+2433,Gas mask cartridge,9020.00
+2434,Safety boot size 6,6403.40
+2435,Safety boot size 7,6403.40
+2436,Safety boot size 11,6403.40
+2437,Gum boot,6401.92
+2438,Knotted safety net,5608.19
+2439,Steel lifeline wire,7312.10
+2440,Anchor sling,6307.90
+2441,Traffic cone 300mm,3926.90
+2442,Traffic cone 500mm,3926.90
+2443,Barricade tape (red-white),3920.10
+2444,No-smoking sign board,8310.00
+2445,First-aid refill kit,3006.50
+2446,LPG stove 3-burner,7321.11
+2447,Induction hob 2-burner,8516.60
+2448,Microwave 25L,8516.50
+2449,Microwave 30L,8516.50
+2450,Refrigerator 350L,8418.21
+2451,Refrigerator 450L,8418.21
+2452,Deep freezer 500L,8418.30
+2453,Visi cooler 400L,8418.50
+2454,RO purifier 15L,8421.21
+2455,Water dispenser (hot+cold),8516.10
+2456,Electric kettle 1.5L,8516.10
+2457,Coffee machine,8516.71
+2458,Toaster,8516.72
+2459,SS table 1200mm,9403.20
+2460,SS table 1800mm,9403.20
+2461,SS shelf 4-tier,9403.20
+2462,Office desk 1500mm,9403.30
+2463,Mesh office chair,9401.39
+2464,Executive chair,9401.31
+2465,Filing cabinet 3-drawer,9403.10
+2466,Double-door steel almirah,9403.10
+2467,Whiteboard 4x6ft,9610.00
+2468,Projector 4000 lumens,8528.62
+2469,CCTV dome camera,8525.89
+2470,CCTV bullet camera,8525.89
+2471,Epoxy adhesive 1kg,3506.91
+2472,Epoxy adhesive 5kg,3506.91
+2473,PVA adhesive 1kg,3506.10
+2474,PVA adhesive 5kg,3506.10
+2475,PVA adhesive 20kg,3506.10
+2476,PVA adhesive 500ml,3506.10
+2477,Contact adhesive 1L,3506.10
+2478,Contact adhesive 5L,3506.10
+2479,PU foam sealant 750ml,3506.91
+2480,Silicone sealant (clear) 300ml,3506.91
+2481,Silicone sealant (white) 300ml,3506.91
+2482,Neutral silicone 600ml,3506.91
+2483,MS polymer sealant 600ml,3506.91
+2484,Polysulphide sealant 600ml,3506.91
+2485,Epoxy tile grout 1kg,3506.91
+2486,Cement grout 5kg,3824.50
+2487,Tile adhesive 20kg,3824.50
+2488,Large-format tile adhesive 20kg,3824.50
+2489,Marble adhesive 5kg,3506.10
+2490,Stone adhesive 5kg,3506.10
+2491,Anti-termite chemical 1L,3808.91
+2492,Anti-termite chemical 5L,3808.91
+2493,Wood preservative 5L,3808.99
+2494,Fungicide 1L,3808.92
+2495,Herbicide 1L,3808.93
+2496,Insecticide spray 600ml,3808.91
+2497,Rodenticide,3808.99
+2498,Disinfectant 1L,3808.94
+2499,Algae remover,3808.99
+2500,Acid descaler cleaner,3824.99
+no,material,hs_code
+2501,Provisional sum / insurance item (service),0000.00
+2502,Dismantling RCC structure (work),0000.00
+2503,Dismantling brick masonry (work),0000.00
+2504,Dismantling PCC (work),0000.00
+2505,Dismantling CGI sheet (work),0000.00
+2506,Tree trimming / cutting (work),0000.00
+2507,Site clearance & levelling (work),0000.00
+2508,Earthwork excavation ordinary soil (work),0000.00
+2509,Earth backfilling & compaction (work),0000.00
+2510,Flat brick soling (work item),6904.10
+2511,Brickwork CM 1:4 ground floor (work),6904.10
+2512,Brickwork CM 1:4 above GF (work),6904.10
+2513,PCC (1:2:4) M15 foundation (work),2523.29
+2514,RCC M25 column / shear wall (work),2523.29
+2515,RCC M20 beam / slab (work),2523.29
+2516,RCC M15 footing (work),2523.29
+2517,Reinforcement steel TMT (work item),7214.20
+2518,Formwork 19mm waterproof ply (work),4412.39
+2519,Formwork column / shear wall (work),4412.39
+2520,Formwork beam up to 0.30m (work),4412.39
+2521,Formwork beam 0.30-0.80m (work),4412.39
+2522,Wooden plank bracing in trench (work),4407.99
+2523,12.5mm plaster wall 1:4 (work),2523.29
+2524,12.5mm plaster ceiling 1:4 (work),2523.29
+2525,2mm white putty wall/ceiling (work),3214.10
+2526,Plastic emulsion 2 coats + primer (work),3209.10
+2527,Weather coat 2 coats + primer (work),3209.10
+2528,Linseed oil 2 coats door/window (work),1515.19
+2529,Marble laying 16mm stair/skirting (work),6802.91
+2530,Porcelain floor tile laying (work),6907.21
+2531,Glazed porcelain wall tile laying (work),6907.23
+2532,38mm screed (1:2:4) floor (work),2523.29
+2533,Glazed shutter salwood frame 4mm glass (work),4418.20
+2534,Readymade flush door supply & fix (work),4418.20
+2535,Salwood chaukhat supply & fix (work),4418.20
+2536,0.5mm color sheet gutter fix (work),7210.70
+2537,0.5mm color sheet ridge roofing (work),7210.70
+2538,SS handrail 50mm dia (work item),7306.40
+2539,MS black pipe roof truss (work item),7306.30
+2540,Elastocrete waterproofing coating (work),3824.99
+2541,Anti-termite treatment imidacloprid (work),3808.91
+2542,EWC commode set supply & install (work),6910.10
+2543,Orissa pan with cistern install (work),6910.10
+2544,Oval wash basin with mixer install (work),6910.10
+2545,Lavatory sink install (work),6910.10
+2546,Glazed sink large install (work),6910.10
+2547,Urinal set install (work),6910.10
+2548,2000L PVC/HDPE water tank install (work),3925.10
+2549,1HP submersible pump install (work),8413.70
+2550,Mirror 450x600mm install (work),7009.92
+2551,15mm SS angle cock install (work),8481.80
+2552,Aluminium grating 100mm install (work),7616.99
+2553,CP grab bar install (work),7324.90
+2554,25mm CPVC pipe SDR-11 laying (work),3917.23
+2555,75mm DWV uPVC pipe laying (work),3917.23
+2556,110mm PVC pipe 6kg/cm2 laying (work),3917.23
+2557,300mm RCC hume pipe NP2 laying (work),6810.99
+2558,75mm PVC tee/bend/Y-branch fitting (work),3917.40
+2559,110mm PVC tee/bend/cowl/door tee (work),3917.40
+2560,GM gate/check valve install (work),8481.80
+2561,CPVC pipe 20mm laying (work),3917.23
+2562,CPVC pipe 25mm laying (work),3917.23
+2563,UPVC pipe 75mm SWR laying (work),3917.23
+2564,UPVC pipe 110mm SWR laying (work),3917.23
+2565,HDPE pipe 63mm laying (work),3917.21
+2566,GI pipe 25mm laying (work),7306.30
+2567,GI pipe 50mm laying (work),7306.30
+2568,Copper pipe 15mm laying (work),7411.10
+2569,PPR pipe 32mm laying (work),3917.22
+2570,PVC waterstop install (work),3916.90
+2571,Bitumen membrane waterproofing (work),6807.90
+2572,Cementitious waterproofing bathroom (work),3824.99
+2573,Waterproofing admixture in concrete (work),3824.40
+2574,Borewell drilling 150mm (service),0000.00
+2575,Borewell casing pipe supply (work),3917.21
+2576,Submersible pump 2HP install (work),8413.70
+2577,Hydro-pneumatic system install (work),8413.70
+2578,Water softener plant install (work),8421.21
+2579,RO plant install (work),8421.21
+2580,STP plant install (service),0000.00
+2581,Septic tank construction (work),6810.99
+2582,Soak pit construction (work),6810.99
+2583,Manhole construction brick (work),6904.10
+2584,CI manhole cover supply & fix (work),7325.10
+2585,Gully trap install (work),3917.40
+2586,Floor drain install (work),7324.90
+2587,Flush cistern install (work),3922.20
+2588,Flush valve install (work),8481.80
+2589,Shower head install (work),7324.90
+2590,Health faucet install (work),8481.80
+2591,Hot water generator install (work),8516.10
+2592,Solar water heater install (work),8419.12
+2593,Rainwater harvesting system (work),3925.90
+2594,Fire hydrant system install (work),8481.80
+2595,Sprinkler system install (work),8424.89
+2596,Fire pump install (work),8413.70
+2597,Plumbing pressure testing (service),0000.00
+2598,Drainage camera survey (service),0000.00
+2599,Valve installation 100mm (work),8481.80
+2600,Water meter install (work),9028.20
+2601,4-way TPN DB supply & install (work),8537.10
+2602,6-way TPN DB supply & install (work),8537.10
+2603,8-way TPN DB box install (work),8537.10
+2604,6A SP MCB install (work),8536.20
+2605,16A SP MCB install (work),8536.20
+2606,25A TPN MCB install (work),8536.20
+2607,40A TPN MCB install (work),8536.20
+2608,25A 4P MCB incoming install (work),8536.20
+2609,25A DP RCCB 30mA install (work),8536.20
+2610,4C x 6mm XLPE armoured cable laying (work),8544.49
+2611,3.5C x 35mm XLPE cable laying (work),8544.49
+2612,4C x 10mm XLPE cable laying (work),8544.49
+2613,Light point wiring (pt) (work),8544.49
+2614,Power outlet wiring 10/13A (pt) (work),8544.49
+2615,16A 3-pin outlet wiring (pt) (work),8544.49
+2616,AC point wiring (pt) (work),8544.49
+2617,36/40W LED tube install (work),8539.52
+2618,18W panel downlight install (work),9405.11
+2619,36W recess panel light install (work),9405.11
+2620,48 inch ceiling fan install (work),8414.51
+2621,Copper plate earthing set (work),7409.19
+2622,25x3mm Cu strip earthing laying (work),7409.19
+2623,Earth pit construction (work),7409.19
+2624,Lightning arrester install (work),8535.40
+2625,DG set install & commission (work),8502.11
+2626,Transformer install (work),8504.21
+2627,LT panel install (work),8537.10
+2628,HT panel install 11kV (work),8537.20
+2629,Busbar installation (work),8536.90
+2630,Cable tray laying (work),7308.90
+2631,Conduit laying 20mm (work),3917.23
+2632,Junction box install (work),3926.90
+2633,Modular switch install (work),8536.50
+2634,Socket outlet install (work),8536.69
+2635,Street light install (work),9405.11
+2636,High-mast install (work),7308.20
+2637,CCTV installation (work),8525.89
+2638,Fire alarm system install (work),8531.10
+2639,Public address system install (work),8518.50
+2640,Electrical testing & commission (service),0000.00
+2641,OPC 53 grade 50kg bag,2523.29
+2642,PPC 50kg bag,2523.29
+2643,White cement 25kg bag,2523.21
+2644,RMC M20 per cum,3824.50
+2645,RMC M25 per cum,3824.50
+2646,RMC M30 per cum,3824.50
+2647,Dry mortar plaster mix 25kg,3824.50
+2648,Dry mortar masonry mix 25kg,3824.50
+2649,Tile adhesive type C1 20kg,3824.50
+2650,Tile adhesive type C2 20kg,3824.50
+2651,Acrylic wall putty 20kg,3214.10
+2652,Cement-based putty 40kg,3214.10
+2653,Non-shrink grout 25kg,3824.50
+2654,Epoxy grout 5kg kit,3506.91
+2655,Plasticizer 5L,3824.40
+2656,Superplasticizer 20kg,3824.40
+2657,Accelerator 20kg,3824.40
+2658,Retarder 20kg,3824.40
+2659,Waterproofing compound 20L,3824.40
+2660,Curing compound 20L,3824.99
+2661,Fly ash 50kg bag,2621.90
+2662,Silica fume 25kg,2811.22
+2663,GGBS 50kg bag,2523.90
+2664,Cement oxide pigment 1kg,3206.49
+2665,Ready-mix screed 25kg,3824.50
+2666,Self-levelling compound 25kg,3824.50
+2667,Repair mortar 25kg,3824.50
+2668,Structural mortar 25kg,3824.50
+2669,Anchor grout 25kg,3824.50
+2670,Cementitious injection grout 25kg,3824.50
+2671,TMT rebar 6mm,7214.20
+2672,TMT rebar 40mm,7214.20
+2673,Binding wire 24 gauge,7217.20
+2674,MS angle 100x100x10,7216.21
+2675,MS channel 200x75,7216.31
+2676,MS I-beam 150x75,7216.32
+2677,MS H-beam 200x200,7216.33
+2678,MS plate 16mm,7208.39
+2679,MS plate 20mm,7208.39
+2680,MS plate 25mm,7208.39
+2681,CR sheet 1mm,7209.17
+2682,CR sheet 1.5mm,7209.17
+2683,GI sheet 16 gauge,7210.49
+2684,Color sheet 0.60mm,7210.70
+2685,SS sheet 3mm (304),7219.33
+2686,SS round bar 12mm,7222.20
+2687,SS round bar 16mm,7222.20
+2688,SS angle 40x40,7222.20
+2689,Aluminium sheet 2mm,7606.12
+2690,Aluminium sheet 3mm,7606.12
+2691,Copper strip 40x5mm,7409.19
+2692,Copper wire 8 SWG,7408.11
+2693,Brass rod 12mm,7407.21
+2694,GI wire 2mm,7217.20
+2695,GI wire 4mm,7217.20
+2696,MS wire 3mm,7217.10
+2697,Welded mesh 8mm @150,7314.19
+2698,Expanded metal 1.5mm,7314.50
+2699,Steel grating (heavy),7308.90
+2700,Stainless steel grating,7326.90
+2701,PVC pipe 32mm (pressure),3917.23
+2702,PVC pipe 40mm (pressure),3917.23
+2703,PVC pipe 65mm (pressure),3917.23
+2704,PVC pipe 80mm (pressure),3917.23
+2705,CPVC pipe 15mm SDR-11,3917.23
+2706,CPVC pipe 32mm SDR-11,3917.23
+2707,CPVC pipe 50mm SDR-11,3917.23
+2708,HDPE pipe 32mm PN10,3917.21
+2709,HDPE pipe 50mm PN10,3917.21
+2710,HDPE pipe 90mm PN8,3917.21
+2711,PPR pipe 20mm PN20,3917.22
+2712,PPR pipe 40mm PN20,3917.22
+2713,PPR pipe 63mm PN16,3917.22
+2714,GI pipe 32mm (medium),7306.30
+2715,GI pipe 65mm (medium),7306.30
+2716,GI pipe 100mm (medium),7306.30
+2717,MS pipe 100mm,7306.30
+2718,MS pipe 150mm,7306.30
+2719,SS pipe 25mm,7306.40
+2720,SS pipe 40mm,7306.40
+2721,PVC fitting set 25mm,3917.40
+2722,PVC fitting set 50mm,3917.40
+2723,CPVC fitting set 25mm,3917.40
+2724,HDPE fitting set 63mm,3917.40
+2725,PPR fitting set 32mm,3917.40
+2726,GI fitting set 25mm,7307.92
+2727,GI fitting set 50mm,7307.92
+2728,SS fitting set 50mm,7307.29
+2729,RCC hume pipe 900mm,6810.99
+2730,RCC hume pipe 1200mm,6810.99
+2731,FRLS wire 1.5sqmm coil 90m,8544.49
+2732,FRLS wire 2.5sqmm coil 90m,8544.49
+2733,FRLS wire 4sqmm coil 90m,8544.49
+2734,FRLS wire 6sqmm coil 90m,8544.49
+2735,2C x 1.5 cable drum,8544.49
+2736,3C x 2.5 cable drum,8544.49
+2737,4C x 4 cable drum,8544.49
+2738,4C x 25 cable drum,8544.49
+2739,4C x 50 cable drum,8544.49
+2740,11kV 3C x 95 cable drum,8544.60
+2741,MCB 32A SP (10kA),8536.20
+2742,MCB 63A TP (10kA),8536.20
+2743,RCCB 63A DP 30mA,8536.20
+2744,RCCB 63A 4P 30mA,8536.20
+2745,DB 12-way SPN (metal),8537.10
+2746,DB 6-way TPN (metal),8537.10
+2747,Modular plate 6-module,8538.90
+2748,Modular plate 12-module,8538.90
+2749,Socket 6A with box,8536.69
+2750,Socket 16A with box,8536.69
+2751,LED bulb 12W (box of 10),8539.52
+2752,LED tube 18W (box of 10),8539.52
+2753,LED panel 22W (box of 5),9405.11
+2754,LED flood 100W (each),9405.11
+2755,Ceiling fan 48 inch (each),8414.51
+2756,Exhaust fan 12 inch (each),8414.51
+2757,PVC conduit 20mm (3m length),3917.23
+2758,PVC conduit 25mm (3m length),3917.23
+2759,GI box 20mm single,8547.90
+2760,GI box 25mm double,8547.90
+2761,EWC commode (one-piece),6910.10
+2762,EWC commode (two-piece),6910.10
+2763,Orissa pan 580mm with cistern,6910.10
+2764,Wash basin 500x400 with pedestal,6910.10
+2765,Urinal 465mm,6910.10
+2766,Kitchen sink SS 800x450,7324.10
+2767,Kitchen sink SS 1200x500,7324.10
+2768,Shower head with arm (brass),7418.20
+2769,Health faucet set (brass),7418.20
+2770,Angle valve 15mm (brass),8481.80
+2771,Bib cock 15mm (brass),8481.80
+2772,Pillar cock 15mm (brass),8481.80
+2773,Flush cistern PVC 9L,3922.20
+2774,Seat cover (soft close),3922.20
+2775,Floor drain SS 75mm,7324.90
+2776,Gully trap SS 100mm,7324.90
+2777,Waste coupling SS 32mm,7324.90
+2778,Bottle trap brass 32mm,7418.20
+2779,Grab bar SS 450mm,7324.90
+2780,Towel ring SS,7324.90
+2781,Soap dish SS,7324.90
+2782,Tissue box SS,7324.90
+2783,Mirror 600x900mm,7009.92
+2784,Water tank PVC 1000L,3925.10
+2785,Water tank PVC 3000L,3925.10
+2786,Water tank SS 3000L,7309.00
+2787,Float valve 25mm (brass),8481.80
+2788,Tank connector 25mm PVC,3917.40
+2789,Overflow pipe 32mm PVC,3917.23
+2790,Inspection chamber 450mm PVC,3925.90
+2791,Interior emulsion 20L (white),3209.10
+2792,Interior emulsion 20L (tinted),3209.10
+2793,Exterior emulsion 20L (white),3209.10
+2794,Exterior emulsion 20L (tinted),3209.10
+2795,Acrylic primer 20L (white),3209.90
+2796,Cement primer 20L,3209.90
+2797,Enamel 20L (red),3208.20
+2798,Enamel 20L (blue),3208.20
+2799,Enamel 20L (green),3208.20
+2800,Enamel 20L (grey),3208.20
+2801,Red oxide primer 20L,3208.90
+2802,Zinc yellow primer 20L,3208.90
+2803,Epoxy paint 20L (grey),3208.90
+2804,PU top coat 20L,3208.90
+2805,Bitumen paint 20L,2715.00
+2806,Distemper 25kg (white),3209.90
+2807,Cement paint 25kg (white),3210.00
+2808,Cement paint 25kg (cream),3210.00
+2809,Wall putty 40kg (white),3214.10
+2810,Wood filler 4kg,3214.10
+2811,Varnish 5L,3210.00
+2812,Melamine 5L,3210.00
+2813,Wood stain 5L,3210.00
+2814,Thinner 20L (NC),3814.00
+2815,Thinner 20L (PU),3814.00
+2816,Turpentine 5L,3805.40
+2817,Linseed oil 5L,1515.19
+2818,Road marking paint 25kg,3208.90
+2819,Fire-retardant paint 20L,3208.90
+2820,Anti-carbonation coating 20L,3209.10
+2821,Marine ply 12mm (8x4),4412.39
+2822,Marine ply 18mm (8x4),4412.39
+2823,Commercial ply 9mm (8x4),4412.39
+2824,Commercial ply 12mm (8x4),4412.39
+2825,Teak ply 6mm (8x4),4412.33
+2826,Teak ply 9mm (8x4),4412.33
+2827,Film-faced ply 18mm (8x4),4412.39
+2828,MDF 12mm (8x4),4411.13
+2829,MDF 18mm (8x4),4411.13
+2830,HDF 12mm (8x4),4411.14
+2831,Particle board 18mm (8x4),4410.11
+2832,OSB 12mm (8x4),4410.12
+2833,Sunmica 1mm (8x4),3921.90
+2834,Gypsum board 12mm (1200x2400),6809.19
+2835,Cement board 12mm (1200x2400),6811.42
+2836,Flush door 800x2000,4418.20
+2837,Flush door 900x2100,4418.20
+2838,Flush door 1000x2100,4418.20
+2839,Panel door 900x2100,4418.20
+2840,Glazed shutter 900x1200,4418.20
+2841,Salwood frame 100x75 (per cum),4407.99
+2842,Timber 50x50 (per cum),4407.99
+2843,Timber 75x75 (per cum),4407.99
+2844,Timber 100x50 (per cum),4407.99
+2845,Bamboo pole 6m,4401.40
+2846,Wooden skirting 75mm (per rm),4409.29
+2847,Wooden beading 25mm (per rm),4409.29
+2848,Veneer sheet 0.6mm (8x4),4408.90
+2849,Block board 18mm (8x4),4412.39
+2850,Wooden pallet (4-way),4415.20
+2851,Vitrified tile 600x600 (box),6907.21
+2852,Vitrified tile 800x800 (box),6907.21
+2853,Vitrified tile 1200x600 (box),6907.21
+2854,Wall tile 300x450 (box),6907.23
+2855,Wall tile 300x600 (box),6907.23
+2856,Anti-skid tile 300x300 (box),6907.22
+2857,Parking tile 400x400 (box),6907.21
+2858,Marble slab 18mm (per sqm),6802.91
+2859,Granite slab 18mm (per sqm),6802.93
+2860,Kota stone 25mm (per sqm),6802.99
+2861,Sandstone slab 25mm (per sqm),6802.99
+2862,Slate tile 300x300 (per sqm),6803.00
+2863,Terrazzo tile 400x400 (per sqm),6810.10
+2864,Glass 5mm (per sqm),7005.29
+2865,Glass 8mm (per sqm),7005.29
+2866,Glass 12mm (per sqm),7005.29
+2867,Tempered glass 10mm (per sqm),7007.19
+2868,Tempered glass 12mm (per sqm),7007.19
+2869,Laminated glass 6+6 (per sqm),7007.29
+2870,DGU 24mm (per sqm),7008.00
+2871,Mirror 5mm (per sqm),7009.92
+2872,ACP 3mm (per sqm),7606.12
+2873,ACP 4mm (per sqm),7606.12
+2874,Polycarbonate 6mm (per sqm),3920.61
+2875,Acrylic 5mm (per sqm),3920.51
+2876,Frosted glass 6mm (per sqm),7006.00
+2877,Glass block 190x190,7016.90
+2878,Glass louver blade 100mm,7003.19
+2879,Glass wool 50mm (per sqm),7019.90
+2880,Rock wool 50mm (per sqm),6806.90
+2881,SS hinge 4 inch (pair),8302.10
+2882,SS hinge 5 inch (pair),8302.10
+2883,Brass hinge 4 inch (pair),8302.10
+2884,Tower bolt 8 inch (SS),8302.41
+2885,Tower bolt 12 inch (SS),8302.41
+2886,Aldrop 8 inch (SS),8302.41
+2887,Door closer hydraulic (medium),8302.60
+2888,Door closer hydraulic (heavy),8302.60
+2889,Lever handle SS (pair),8302.49
+2890,Pull handle 600mm SS,8302.49
+2891,Mortise lock 60mm,8301.40
+2892,Cylindrical lock (brass),8301.40
+2893,Padlock 50mm (SS),8301.10
+2894,Rim lock (brass),8301.40
+2895,Drawer slide 450mm,8302.42
+2896,Caster 3 inch (swivel),8302.20
+2897,Hex bolt M12x50 (box 100),7318.15
+2898,Hex bolt M16x60 (box 50),7318.15
+2899,Hex nut M12 (box 100),7318.16
+2900,Flat washer M12 (box 200),7318.22
+2901,Self-tap screw 4x25 (box 500),7318.14
+2902,Drywall screw 25mm (box 1000),7318.14
+2903,Anchor fastener 10x100 (box 50),7318.19
+2904,Chemical anchor M16 (kit),3506.90
+2905,Rawl plug 8mm (box 500),3926.90
+2906,Rivet 4x10 (box 1000),7318.23
+2907,Nail 50mm (25kg bag),7317.00
+2908,Nail 75mm (25kg bag),7317.00
+2909,Binding wire 20 gauge (25kg),7217.20
+2910,Welding rod 3.15mm (5kg),8311.10
+2911,Drill machine 10mm (electric),8467.21
+2912,Drill machine 16mm (electric),8467.21
+2913,Hammer drill 20mm,8467.21
+2914,Rotary hammer 26mm,8467.21
+2915,Angle grinder 100mm,8467.29
+2916,Angle grinder 180mm,8467.29
+2917,Marble cutter 110mm,8467.29
+2918,Wood cutter 185mm,8467.22
+2919,Jigsaw machine,8467.22
+2920,Wood planer machine,8465.92
+2921,Arc welding machine 300A,8515.31
+2922,TIG welding machine,8515.31
+2923,MIG welding machine,8515.31
+2924,Concrete vibrator 2HP,8479.89
+2925,Plate compactor 3HP,8479.89
+2926,Tamping rammer,8430.69
+2927,Bar bender 32mm,8462.29
+2928,Bar cutter 32mm,8462.29
+2929,Thread rolling machine,8463.90
+2930,Power trowel 900mm,8479.89
+2931,Concrete groove cutter,8464.10
+2932,Core drilling machine 150mm,8464.10
+2933,Chain block 3-ton,8425.19
+2934,Chain block 5-ton,8425.19
+2935,Winch 2-ton,8425.31
+2936,Hand pallet truck 2.5t,8427.90
+2937,Forklift 2-ton,8427.10
+2938,Mobile crane 15t,8705.10
+2939,Tower crane 5t,8426.20
+2940,Boom lift (aerial platform),8705.90
+2941,Safety helmet white (each),6506.10
+2942,Safety helmet yellow (each),6506.10
+2943,Safety helmet blue (each),6506.10
+2944,Reflective vest (each),6211.43
+2945,Coverall (each),6211.33
+2946,Safety goggle (each),9004.90
+2947,Welding shield (each),6506.99
+2948,N95 mask (box 50),6307.90
+2949,Leather glove (pair),4203.29
+2950,Rubber glove (pair),4015.19
+2951,Safety boot size 9 (pair),6403.40
+2952,Safety boot size 10 (pair),6403.40
+2953,Safety harness (each),6307.90
+2954,Safety net 5x10m,5608.19
+2955,Shade net 5x10m,5608.19
+2956,Traffic cone 750mm (each),3926.90
+2957,Barricade tape 100m roll,3920.10
+2958,Caution board (each),8310.00
+2959,Site sign board (each),8310.00
+2960,First aid box (full),3006.50
+2961,Fire extinguisher ABC 6kg,8424.10
+2962,Fire extinguisher CO2 4.5kg,8424.10
+2963,Fire bucket (steel),7323.99
+2964,Fire sand box,7323.99
+2965,Emergency exit light,9405.11
+2966,Desktop PC (i5),8471.50
+2967,Laptop (i5),8471.30
+2968,Laser printer (mono),8443.32
+2969,Laser printer (color),8443.32
+2970,Photocopier (A3),8443.31
+2971,UPS 1kVA (online),8504.40
+2972,UPS 3kVA (online),8504.40
+2973,Battery 150Ah (tubular),8507.20
+2974,Battery 200Ah (tubular),8507.20
+2975,Projector (XGA),8528.62
+2976,CCTV camera 2MP,8525.89
+2977,CCTV camera 4MP,8525.89
+2978,NVR 8-channel,8521.90
+2979,Hard disk 2TB (surveillance),8471.70
+2980,Wireless router,8517.62
+2981,Switch 16-port,8517.62
+2982,IP intercom phone,8517.62
+2983,Office desk 1400mm,9403.30
+2984,Office chair (high back),9401.31
+2985,Filing cabinet 4-drawer,9403.10
+2986,Steel almirah (single),9403.10
+2987,Whiteboard 3x4ft,9610.00
+2988,LPG stove 2-burner (SS),7321.11
+2989,Refrigerator 220L,8418.21
+2990,Water purifier RO+UV,8421.21
+2991,A4 paper ream (500 sheets),4802.56
+2992,File folder (box 25),4820.50
+2993,Stapler (heavy),8205.59
+2994,Staple pins 24/6 (box),8305.20
+2995,Ball pen (box 50),9608.10
+2996,Marker pen (box 12),9608.20
+2997,Stationery adhesive tape,3919.10
+2998,Glue stick,3506.10
+2999,Office scissors,8213.00
+3000,Cutter blade (box 10),8211.94
+no,material,hs_code
+3001,Split AC indoor unit,8415.10
+3002,Split AC outdoor unit,8415.10
+3003,Cassette AC 2-ton,8415.82
+3004,Ductable AC 4-ton,8415.82
+3005,VRF outdoor unit,8415.82
+3006,VRF indoor unit,8415.82
+3007,Air handling unit (AHU),8415.82
+3008,Fan coil unit (FCU),8415.82
+3009,Air-cooled chiller,8418.61
+3010,Water-cooled chiller,8418.61
+3011,Cooling tower,8419.89
+3012,Axial exhaust fan,8414.51
+3013,Centrifugal blower,8414.59
+3014,Inline duct fan,8414.51
+3015,Fresh air fan,8414.51
+3016,GI duct rectangular,7326.90
+3017,Pre-insulated duct panel,3921.13
+3018,Flexible duct insulated,3926.90
+3019,Volume control damper,8415.90
+3020,Fire damper,8415.90
+3021,Motorized control damper,8415.90
+3022,Air supply grille,8415.90
+3023,Ceiling diffuser square,8415.90
+3024,Return air grille,8415.90
+3025,Linear slot diffuser,8415.90
+3026,Jet diffuser nozzle,8415.90
+3027,Aluminium louver,7610.10
+3028,Weather louver with mesh,7610.10
+3029,Acoustic louver,8415.90
+3030,Sand trap louver,7610.10
+3031,Air curtain 1.2m,8414.51
+3032,Digital thermostat,9032.10
+3033,VAV box,8415.90
+3034,Electric duct heater,8516.80
+3035,Duct silencer,8415.90
+3036,Vibration isolator neoprene,4016.99
+3037,Spring isolator mount,7320.90
+3038,Canvas flexible connection,5903.20
+3039,Duct access door,7308.90
+3040,Duct flange angle iron,7216.21
+3041,Insulation pin with washer,7317.00
+3042,Self-adhesive insulation pin,3926.90
+3043,Aluminium foil tape,7607.19
+3044,Glass wool insulation slab,7019.90
+3045,Nitrile rubber insulation tube,4016.10
+3046,Elastomeric foam insulation sheet,4016.10
+3047,Duct wrap foil-faced,7019.90
+3048,Refrigerant R410A,2903.39
+3049,Refrigerant R32,2903.39
+3050,Copper pipe for AC 1/2 inch,7411.10
+3051,Solar PV module Monocrystalline,8541.43
+3052,Solar PV module Polycrystalline,8541.43
+3053,Solar panel 100W,8541.43
+3054,Solar panel 250W,8541.43
+3055,Solar panel 400W,8541.43
+3056,Solar inverter 1kW,8504.40
+3057,Solar inverter 3kW,8504.40
+3058,Solar inverter 5kW,8504.40
+3059,Solar inverter 10kW,8504.40
+3060,Hybrid solar inverter 5kW,8504.40
+3061,Off-grid inverter,8504.40
+3062,MPPT charge controller,8504.40
+3063,PWM charge controller,8504.40
+3064,Tubular solar battery 150Ah,8507.20
+3065,Lithium iron phosphate battery (LiFePO4),8507.60
+3066,Solar mounting structure GI,7308.90
+3067,Solar mounting structure Aluminium,7610.10
+3068,Roof clamp for solar L-foot,7308.90
+3069,Mid clamp for solar module,7616.99
+3070,End clamp for solar module,7616.99
+3071,MC4 connector pair,8536.90
+3072,PV combiner box (DC),8537.10
+3073,DC distribution box,8537.10
+3074,AC distribution box,8537.10
+3075,DC surge protective device (SPD),8536.30
+3076,AC surge protective device (SPD),8536.30
+3077,DC fuse holder,8536.10
+3078,DC fuse 15A,8536.10
+3079,Solar DC cable 4 sqmm,8544.49
+3080,Solar DC cable 6 sqmm,8544.49
+3081,Solar street light 20W,9405.41
+3082,Solar street light 40W,9405.41
+3083,Solar street light 60W,9405.41
+3084,Solar garden light,9405.41
+3085,Solar pump controller,8504.40
+3086,Solar water pump 1HP,8413.70
+3087,Solar water pump 3HP,8413.70
+3088,Solar water heater ETC,8419.12
+3089,Solar water heater FPC,8419.12
+3090,Solar lantern,9405.41
+3091,Raw water pump,8413.70
+3092,Clariflocculator unit,8421.21
+3093,Tube settler media PVC,3926.90
+3094,Pressure sand filter vessel,8421.21
+3095,Activated carbon filter vessel,8421.21
+3096,Water softener resin (ion exchange),3914.00
+3097,Brine tank FRP,3925.10
+3098,Multiport valve for filter,8481.80
+3099,Filter press plate,8421.29
+3100,Sludge drying bed media,3926.90
+3101,Dosing pump (diaphragm),8413.70
+3102,Chemical dosing tank 500L,3925.10
+3103,Flocculant dosing system,8424.89
+3104,Chlorine dosing pump,8413.70
+3105,Chlorine cylinder,2801.10
+3106,Sodium hypochlorite tank 1000L,3925.10
+3107,Polyelectrolyte dosing system,8424.89
+3108,Online pH meter,9027.80
+3109,Online ORP meter,9027.80
+3110,Online TSS meter,9027.80
+3111,Electromagnetic flow meter,9026.10
+3112,Ultrasonic flow meter,9026.10
+3113,Ultrasonic level transmitter,9026.10
+3114,Float level switch,8536.50
+3115,Sample cooler SS,8419.50
+3116,Aeration blower roots type,8414.59
+3117,Aeration blower twin lobe,8414.59
+3118,Fine bubble diffuser disc (EPDM),4016.99
+3119,Coarse bubble diffuser,4016.99
+3120,MBBR media (biofilm carrier),3926.90
+3121,MBR membrane module,8421.29
+3122,UF membrane module,8421.29
+3123,RO membrane 8-inch,8421.29
+3124,RO membrane 4-inch,8421.29
+3125,Antiscalant chemical (RO),3824.99
+3126,CIP cleaning chemical,3824.99
+3127,High pressure pump (RO),8413.70
+3128,Fire hydrant valve (landing),8481.80
+3129,Post indicator valve (PIV),8481.80
+3130,OS&Y gate valve fire,8481.80
+3131,Grooved butterfly valve,8481.80
+3132,Grooved check valve,8481.30
+3133,Alarm check valve,8481.30
+3134,Deluge valve assembly,8481.80
+3135,Pre-action valve assembly,8481.80
+3136,Fire pump diesel engine driven,8413.70
+3137,Fire pump electric motor driven,8413.70
+3138,Jockey pump (pressure maintenance),8413.70
+3139,Fire pump controller,8537.10
+3140,Fire hose reel drum 30m,8424.89
+3141,Fire hose 63mm (canvas),5909.00
+3142,Fire hose 45mm (rubber lined),5909.00
+3143,Branch pipe nozzle,8424.90
+3144,Jet spray nozzle,8424.90
+3145,Siamese connection 2-way,8481.80
+3146,Fire department connection (FDC),8481.80
+3147,Sprinkler head pendant 68C,8424.89
+3148,Sprinkler head upright 68C,8424.89
+3149,Sprinkler head sidewall,8424.89
+3150,Sprinkler head concealed,8424.89
+3151,Grooved coupling rigid,7307.99
+3152,Grooved coupling flexible,7307.99
+3153,Grooved elbow 90 degree,7307.99
+3154,Grooved tee,7307.99
+3155,Grooved reducer,7307.99
+3156,Grooved end cap,7307.99
+3157,Grooved flange adapter,7307.99
+3158,Threaded coupling GI,7307.92
+3159,Threaded nipple GI,7307.92
+3160,Threaded elbow GI,7307.92
+3161,Fire extinguisher ABC 2kg,8424.10
+3162,Fire extinguisher ABC 4kg,8424.10
+3163,Fire extinguisher ABC 6kg,8424.10
+3164,Fire extinguisher ABC 9kg,8424.10
+3165,Fire extinguisher CO2 4.5kg,8424.10
+3166,Fire extinguisher clean agent,8424.10
+3167,Fire blanket,5603.94
+3168,Smoke detector optical,8531.10
+3169,Heat detector rate-of-rise,8531.10
+3170,Manual call point (MCP),8531.10
+3171,Traction machine geared,8428.90
+3172,Traction machine gearless,8428.90
+3173,Elevator car cabin,8431.31
+3174,Elevator car door,8431.31
+3175,Elevator landing door,8431.31
+3176,Counterweight block (cast iron),7325.10
+3177,Guide rail T89 for elevator,7216.99
+3178,Guide rail T127 for elevator,7216.99
+3179,Guide shoe roller,8431.31
+3180,Guide shoe sliding,8431.31
+3181,Elevator wire rope 8mm,7312.10
+3182,Elevator wire rope 13mm,7312.10
+3183,Compensation chain,7315.90
+3184,Buffer oil type,8428.90
+3185,Buffer spring type,7320.90
+3186,Overspeed governor,8431.31
+3187,Safety gear assembly,8431.31
+3188,Door operator mechanism,8431.31
+3189,Limit switch for elevator,8536.50
+3190,Encoder for traction machine,8533.40
+3191,Control cabinet elevator,8537.10
+3192,Traveling cable flat,8544.49
+3193,Call button (hall lantern),8536.50
+3194,Car operating panel (COP),8537.10
+3195,Pit stop switch,8536.50
+3196,Machine room exhaust fan,8414.51
+3197,Escalator truss,7308.90
+3198,Escalator step chain,7315.90
+3199,Escalator handrail,4010.11
+3200,Escalator comb plate,3926.90
+3201,Compression testing machine digital,9024.80
+3202,Compression testing machine manual,9024.80
+3203,Flexure testing attachment,9024.80
+3204,Universal testing machine 1000kN,9024.80
+3205,Universal testing machine 50kN,9024.80
+3206,Slump cone apparatus,9024.80
+3207,Flow table apparatus,9024.80
+3208,Vicat apparatus,9024.80
+3209,Le Chatelier flask,7017.20
+3210,Standard sieve 4.75mm,7314.19
+3211,Standard sieve 10mm,7314.19
+3212,Standard sieve 20mm,7314.19
+3213,Sieve shaker mechanical,8474.10
+3214,Aggregate impact value apparatus,9024.80
+3215,Aggregate crushing value apparatus,9024.80
+3216,Los Angeles abrasion machine,9024.80
+3217,CBR testing machine,9024.80
+3218,Proctor mould and rammer,9024.80
+3219,Core cutter apparatus,9024.80
+3220,Sand replacement apparatus,9024.80
+3221,Pycnometer,7017.20
+3222,Specific gravity flask,7017.20
+3223,Mortar cube mould 70.6mm,8480.60
+3224,Concrete cube mould 150mm,8480.60
+3225,Concrete cylinder mould 150x300mm,8480.60
+3226,Curing tank (temperature controlled),8419.89
+3227,Laboratory jaw crusher,8474.20
+3228,Disc mill,8474.20
+3229,Drying oven 200C,8514.10
+3230,Muffle furnace 1200C,8514.10
+3231,Desiccator with silica gel,7017.20
+3232,Balances precision (0.01g),9016.00
+3233,Platform weighing scale 100kg,8423.82
+3234,Moisture meter digital,9027.80
+3235,Rebound hammer,9024.80
+3236,Ultrasonic pulse velocity tester,9031.80
+3237,Pile integrity tester,9031.80
+3238,Pull-off adhesion tester,9024.80
+3239,Hardness tester (pocket),9024.80
+3240,Thickness gauge coating,9031.80
+3241,Total station 2-second accuracy,9015.20
+3242,Total station 5-second accuracy,9015.20
+3243,Theodolite digital,9015.20
+3244,Auto level 24x magnification,9015.30
+3245,Auto level 32x magnification,9015.30
+3246,Dumpy level,9015.30
+3247,Levelling staff 5m aluminium,9015.30
+3248,Levelling staff 4m telescopic,9015.30
+3249,Prism with pole,9015.30
+3250,Mini prism for total station,9015.30
+3251,GPS RTK base station,8526.91
+3252,GPS RTK rover,8526.91
+3253,Handheld GPS receiver,8526.91
+3254,Laser distance meter 50m,9015.10
+3255,Laser distance meter 100m,9015.10
+3256,Laser level rotary 360-deg,9015.30
+3257,Laser level cross line,9015.30
+3258,Plumb bob brass,8205.59
+3259,Measuring tape 5m steel,9017.20
+3260,Measuring tape 30m fiberglass,9017.20
+3261,Measuring tape 50m fiberglass,9017.20
+3262,Measuring wheel digital,9017.20
+3263,Tripod aluminium heavy duty,9015.30
+3264,Tripod wood for survey,9015.30
+3265,Compass prismatic,9015.80
+3266,Clinometer,9015.80
+3267,Barometer aneroid,9025.80
+3268,Hygrometer digital,9025.80
+3269,Anemometer handheld,9017.80
+3270,Rain gauge standard,3926.90
+3271,Hex bolt M8x30 HDG,7318.15
+3272,Hex bolt M10x40 HDG,7318.15
+3273,Hex bolt M12x60 HDG,7318.15
+3274,Hex bolt M16x80 HDG,7318.15
+3275,Hex bolt M20x100 HDG,7318.15
+3276,Hex nut M8 HDG,7318.16
+3277,Hex nut M12 HDG,7318.16
+3278,Flat washer M8 HDG,7318.22
+3279,Flat washer M16 HDG,7318.22
+3280,Spring washer M10 HDG,7318.21
+3281,Spring washer M20 HDG,7318.21
+3282,Carriage bolt M10x50,7318.15
+3283,Carriage bolt M12x80,7318.15
+3284,Anchor bolt M16x300,7318.15
+3285,Anchor bolt M20x450,7318.15
+3286,U-bolt 50mm HDG,7318.15
+3287,J-bolt M16,7318.15
+3288,L-bolt M20,7318.15
+3289,Threaded rod M10,7318.15
+3290,Threaded rod M12,7318.15
+3291,Threaded rod M16,7318.15
+3292,Threaded rod M20,7318.15
+3293,Drop-in anchor M8,7318.19
+3294,Drop-in anchor M10,7318.19
+3295,Drop-in anchor M12,7318.19
+3296,Drop-in anchor M16,7318.19
+3297,Wedge anchor 10x100,7318.19
+3298,Wedge anchor 12x120,7318.19
+3299,Wedge anchor 16x150,7318.19
+3300,Sleeve anchor 10x80,7318.19
+3301,Sleeve anchor 12x100,7318.19
+3302,Chemical anchor resin M10,3506.90
+3303,Chemical anchor resin M12,3506.90
+3304,Chemical anchor resin M16,3506.90
+3305,Chemical anchor stud M20,7318.15
+3306,Self-drilling screw 12 gauge,7318.14
+3307,Self-drilling screw 14 gauge,7318.14
+3308,Tek screw with EPDM washer,7318.14
+3309,Pop rivet aluminium 4mm,7318.23
+3310,Pop rivet aluminium 5mm,7318.23
+3311,Blind rivet stainless steel,7318.23
+3312,Hinge pin brass,8302.10
+3313,Drawer runner telescopic 400mm,8302.42
+3314,Drawer runner telescopic 500mm,8302.42
+3315,Gas spring for cabinet,7320.90
+3316,Soft close damper,8302.49
+3317,Cabinet knob wooden,4421.99
+3318,Cabinet knob ceramic,6914.90
+3319,Cabinet knob zinc alloy,7907.00
+3320,Wardrobe hanging rail,7604.21
+3321,HSS drill bit 2mm,8207.50
+3322,HSS drill bit 3mm,8207.50
+3323,HSS drill bit 4mm,8207.50
+3324,HSS drill bit 5mm,8207.50
+3325,HSS drill bit 6mm,8207.50
+3326,HSS drill bit 8mm,8207.50
+3327,HSS drill bit 10mm,8207.50
+3328,HSS drill bit 12mm,8207.50
+3329,HSS drill bit 16mm,8207.50
+3330,HSS drill bit 20mm,8207.50
+3331,Masonry drill bit 6mm,8207.50
+3332,Masonry drill bit 8mm,8207.50
+3333,Masonry drill bit 10mm,8207.50
+3334,Masonry drill bit 12mm,8207.50
+3335,Masonry drill bit 16mm,8207.50
+3336,SDS plus bit 8mm,8207.50
+3337,SDS plus bit 10mm,8207.50
+3338,SDS plus bit 12mm,8207.50
+3339,SDS plus bit 16mm,8207.50
+3340,SDS plus bit 20mm,8207.50
+3341,SDS max bit 25mm,8207.50
+3342,SDS max bit 32mm,8207.50
+3343,Diamond core bit 25mm,8207.50
+3344,Diamond core bit 50mm,8207.50
+3345,Diamond core bit 75mm,8207.50
+3346,Diamond core bit 100mm,8207.50
+3347,Diamond core bit 150mm,8207.50
+3348,Hole saw 25mm bimetal,8207.50
+3349,Hole saw 50mm bimetal,8207.50
+3350,Hole saw 75mm bimetal,8207.50
+3351,Cutting disc 4 inch metal,6804.22
+3352,Cutting disc 7 inch metal,6804.22
+3353,Cutting disc 9 inch metal,6804.22
+3354,Grinding disc 4 inch,6804.21
+3355,Grinding disc 7 inch,6804.21
+3356,Flap disc 4 inch 60 grit,6805.10
+3357,Flap disc 4 inch 120 grit,6805.10
+3358,Sanding disc 5 inch,6805.20
+3359,Sanding belt 4 inch,6805.20
+3360,Wire cup brush,9603.90
+3361,Cement bag jute,6305.10
+3362,Cement bag PP woven,6305.33
+3363,Fly ash bag,6305.33
+3364,Sand bag polypropylene,6305.33
+3365,Aggregate bulk bag (FIBC),6305.33
+3366,Steel coil strapping,7217.20
+3367,PET strapping band,3916.90
+3368,Strapping seal metal,7326.90
+3369,Strapping tensioner tool,8205.59
+3370,Shrink wrap film,3920.10
+3371,Stretch wrap film,3920.10
+3372,Bubble wrap,3921.11
+3373,Corrugated cardboard box,4819.10
+3374,Wooden crate,4415.10
+3375,Plywood box,4415.10
+3376,Pallet wood,4415.20
+3377,Pallet plastic,3923.90
+3378,Pallet steel,7326.90
+3379,Tarpaulin HDPE 200gsm,6306.12
+3380,Tarpaulin PVC,3926.90
+3381,Rope nylon 12mm,5607.50
+3382,Rope nylon 16mm,5607.50
+3383,Rope nylon 24mm,5607.50
+3384,Chain link 8mm,7315.89
+3385,Wire rope 10mm,7312.10
+3386,Wire rope 16mm,7312.10
+3387,Wire rope clip (grip),7326.90
+3388,Turnbuckle M12,7326.90
+3389,Turnbuckle M16,7326.90
+3390,Shackle D-type 1-ton,7315.90
+3391,Shackle Bow-type 2-ton,7315.90
+3392,Hook eye swivel,7315.90
+3393,Carabiner clip,8308.90
+3394,Ratchet tie-down strap,6307.90
+3395,Cargo net,5608.19
+3396,Lashing belt,6307.90
+3397,Forklift fork extension,8431.20
+3398,Pallet truck wheel PU,8302.20
+3399,Trolley wheel rubber,8302.20
+3400,Caster wheel heavy duty,8302.20
+3401,Door hinge 4 inch SS,8302.10
+3402,Door hinge 5 inch SS,8302.10
+3403,Door hinge 6 inch SS,8302.10
+3404,Tower bolt 6 inch SS,8302.41
+3405,Tower bolt 8 inch SS,8302.41
+3406,Tower bolt 10 inch SS,8302.41
+3407,Aldrop 6 inch SS,8302.41
+3408,Aldrop 8 inch SS,8302.41
+3409,Door closer medium duty,8302.60
+3410,Door closer heavy duty,8302.60
+3411,Floor spring single action,8302.60
+3412,Floor spring double action,8302.60
+3413,Patch fitting top (glass),8302.41
+3414,Patch fitting bottom (glass),8302.41
+3415,Patch lock (glass door),8301.40
+3416,Overhead closer concealed,8302.60
+3417,Lever handle 500mm SS,8302.49
+3418,Lever handle 800mm SS,8302.49
+3419,Pull handle 600mm SS,8302.49
+3420,Pull handle 900mm SS,8302.49
+3421,Pull handle 1200mm SS,8302.49
+3422,Door viewer digital,8525.89
+3423,Door viewer optical,9013.80
+3424,Weather strip brush,9603.90
+3425,Weather strip rubber,4016.99
+3426,Silicone glass sealant clear,3506.91
+3427,Silicone glass sealant black,3506.91
+3428,EPDM gasket,4016.93
+3429,PVC gasket,3926.90
+3430,Glass suction cup double,8205.59
+3431,Glass suction cup triple,8205.59
+3432,Glazing block PVC,3926.90
+3433,Glazing block rubber,4016.99
+3434,Spider fitting 2-arm,7308.90
+3435,Spider fitting 4-arm,7308.90
+3436,Routel 25mm,7326.90
+3437,Glass clamp 12mm,8302.49
+3438,Glass balustrade base shoe,7604.21
+3439,Frameless glass hinge,8302.10
+3440,Sliding door roller,8302.42
+3441,PVC conduit 20mm heavy duty,3917.23
+3442,PVC conduit 25mm heavy duty,3917.23
+3443,PVC conduit 32mm heavy duty,3917.23
+3444,PVC conduit 40mm heavy duty,3917.23
+3445,PVC bend 20mm,3917.40
+3446,PVC bend 25mm,3917.40
+3447,PVC bend 32mm,3917.40
+3448,PVC coupler 20mm,3917.40
+3449,PVC coupler 25mm,3917.40
+3450,PVC junction box 2-way,3926.90
+3451,PVC junction box 3-way,3926.90
+3452,PVC junction box 4-way,3926.90
+3453,GI conduit 20mm,7306.30
+3454,GI conduit 25mm,7306.30
+3455,GI conduit 32mm,7306.30
+3456,GI bend 20mm,7306.30
+3457,GI bend 25mm,7306.30
+3458,GI junction box 4x4 inch,7308.90
+3459,GI junction box 6x6 inch,7308.90
+3460,GI junction box 8x8 inch,7308.90
+3461,Cable tray perforated 100mm,7308.90
+3462,Cable tray perforated 300mm,7308.90
+3463,Cable tray perforated 450mm,7308.90
+3464,Cable tray ladder type 300mm,7308.90
+3465,Cable tray ladder type 600mm,7308.90
+3466,Cable tray cover 100mm,7308.90
+3467,Cable tray cover 300mm,7308.90
+3468,Cable tie 100mm nylon,3926.90
+3469,Cable tie 200mm nylon,3926.90
+3470,Cable tie 300mm nylon,3926.90
+3471,Cable tie 450mm nylon,3926.90
+3472,Cable tie stainless steel,7326.90
+3473,Cable gland PG11,7412.20
+3474,Cable gland PG13.5,7412.20
+3475,Cable gland PG16,7412.20
+3476,Cable gland PG21,7412.20
+3477,Cable gland PG29,7412.20
+3478,Cable gland PG36,7412.20
+3479,Cable lug 10 sqmm,8536.90
+3480,Cable lug 16 sqmm,8536.90
+3481,Angle valve 15mm brass CP,8481.80
+3482,Angle valve 20mm brass CP,8481.80
+3483,Bib cock 15mm brass CP,8481.80
+3484,Pillar cock 15mm brass CP,8481.80
+3485,Sink cock 15mm brass CP,8481.80
+3486,Stop cock 15mm concealed,8481.80
+3487,Stop cock 20mm concealed,8481.80
+3488,Stop cock 25mm concealed,8481.80
+3489,Shower mixer concealed,8481.80
+3490,Shower mixer exposed,8481.80
+3491,Diverter 2-way,8481.80
+3492,Diverter 3-way,8481.80
+3493,Hand shower single function,8481.80
+3494,Hand shower 3-function,8481.80
+3495,Shower head 200mm,8481.80
+3496,Shower head 300mm,8481.80
+3497,Shower arm 300mm,8481.80
+3498,Shower arm 450mm,8481.80
+3499,Waste coupling 32mm brass,7418.20
+3500,Waste coupling 40mm brass,7418.20

@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Main window: core APIs only. Backup writing goes through our own commands.",
+  "windows": ["main"],
+  "permissions": ["core:default", "core:webview:allow-print"]
+}

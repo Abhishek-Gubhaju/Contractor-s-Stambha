@@ -1,0 +1,501 @@
+no,material,hs_code
+1,OPC cement,2523.29
+2,PPC cement,2523.29
+3,White cement,2523.21
+4,Cement clinker,2523.10
+5,Aluminous cement,2523.30
+6,Slag / supersulphate cement,2523.90
+7,Ready-mix / dry concrete mix,3824.50
+8,Cement plasticizer admixture,3824.40
+9,Accelerator admixture,3824.40
+10,Retarder admixture,3824.40
+11,Air-entraining admixture,3824.40
+12,Waterproofing admixture,3824.40
+13,Curing compound,3824.99
+14,Non-shrink cement grout,3824.50
+15,Cement-based tile adhesive,3824.50
+16,Epoxy grout,3506.91
+17,Quick lime,2522.10
+18,Slaked lime,2522.20
+19,Fly ash,2621.90
+20,Silica fume / microsilica,2811.22
+21,River sand,2505.10
+22,Silica sand,2505.10
+23,Crushed stone aggregate (gitti),2517.10
+24,Gravel / pebble,2517.10
+25,Boulder (rough),2516.90
+26,Stone dust / quarry dust,2517.10
+27,Macadam / soling stone,2517.10
+28,Riprap / rock fill,2517.10
+29,Moorum / murrum,2508.40
+30,Bentonite clay,2508.10
+31,Ballast stone,2517.10
+32,Filter media sand/gravel,2517.10
+33,Top soil / filling earth,2508.40
+34,Laterite,2508.40
+35,Slate granules,2517.10
+36,Marble chips (terrazzo),2517.10
+37,Terrazzo chips,2517.10
+38,Quartzite,2506.20
+39,Pumice stone,2513.10
+40,Granite kerb/sett (rough),2516.11
+41,Clay building brick,6904.10
+42,Clay paving brick,6904.10
+43,Hollow clay block,6904.10
+44,Solid concrete block,6810.10
+45,Hollow concrete block,6810.10
+46,AAC block,6810.10
+47,Cement paving tile / flagstone,6810.10
+48,Concrete kerb stone,6810.10
+49,Interlocking paver block,6810.10
+50,Concrete ventilation block,6810.10
+51,RCC hume pipe,6810.99
+52,Concrete pipe (non-RCC),6810.99
+53,Prefab RCC column / beam,6810.91
+54,Prefab concrete panel / slab,6810.91
+55,Concrete septic tank,6810.99
+56,Concrete manhole ring,6810.99
+57,Corrugated fibre-cement sheet,6811.41
+58,Flat fibre-cement sheet,6811.42
+59,Gypsum plaster board,6809.19
+60,Lime mortar mix,3824.50
+61,Marble slab (polished),6802.91
+62,Marble tile,6802.91
+63,Granite slab,6802.93
+64,Granite tile,6802.93
+65,Slate tile,6803.00
+66,Sandstone slab,6802.99
+67,Limestone slab,6802.99
+68,Worked pebble / landscape stone,6802.99
+69,Stone counter / vanity top,6802.99
+70,Terrazzo tile,6810.10
+71,Marble powder (fine),2517.10
+72,Stone stair step,6802.99
+73,Stone cladding / veneer,6802.99
+74,Stone setts (worked),6801.00
+75,Stone kerb (worked),6801.00
+76,Rebar ribbed (TMT),7214.20
+77,MS round bar,7214.90
+78,MS square bar,7214.90
+79,MS flat bar,7211.19
+80,MS angle,7216.21
+81,MS channel,7216.31
+82,MS I-beam,7216.32
+83,MS plate / sheet,7208.39
+84,Chequered plate,7208.51
+85,HR coil / sheet,7208.39
+86,CR sheet,7209.17
+87,GI corrugated sheet,7210.49
+88,GI plain sheet,7210.49
+89,Prepainted colour sheet,7210.70
+90,GI coil,7210.49
+91,Tin plate,7210.11
+92,MS black pipe,7306.30
+93,GI pipe,7306.30
+94,SS pipe,7306.40
+95,Square hollow section,7306.61
+96,Rectangular hollow section,7306.61
+97,ERW pipe,7306.30
+98,Seamless steel pipe,7304.19
+99,Cast iron pipe,7303.00
+100,MS roof truss,7308.90
+101,Scaffold tube / coupler,7308.40
+102,Steel scaffolding plank,7308.40
+103,MS gate / grill,7308.90
+104,Steel door / window frame,7308.30
+105,Steel shuttering plate,7308.40
+106,GI binding wire,7217.20
+107,Barbed wire,7313.00
+108,Chain link mesh,7314.19
+109,Welded wire mesh,7314.19
+110,Expanded metal mesh,7314.50
+111,Nails,7317.00
+112,Bolts & nuts,7318.15
+113,Self-tapping screws,7318.14
+114,Washers,7318.22
+115,SS handrail / balustrade,7326.90
+116,Aluminium sheet,7606.12
+117,Aluminium coil,7606.12
+118,Aluminium profile / section,7604.21
+119,Aluminium door frame,7610.10
+120,Aluminium window frame,7610.10
+121,Aluminium composite panel (ACP),7606.12
+122,Aluminium grating,7616.99
+123,Aluminium ladder,7616.99
+124,Aluminium foil,7607.19
+125,Copper wire / rod,7408.11
+126,Copper strip (earthing),7409.19
+127,Copper plate,7409.19
+128,Copper pipe,7411.10
+129,Brass pipe fitting,7412.20
+130,Brass sanitary fitting,7418.20
+131,Copper screws / nails,7415.33
+132,Zinc sheet,7905.00
+133,Lead sheet,7804.11
+134,Stainless steel sheet,7219.33
+135,SS bar / section,7222.20
+136,Sawn sal timber,4407.99
+137,Sawn softwood / pine,4407.19
+138,Teak sawn wood,4407.29
+139,Wooden door frame (chaukhat),4418.20
+140,Wooden door shutter,4418.20
+141,Flush door,4418.20
+142,Panel door,4418.20
+143,Wooden window frame,4418.20
+144,Glazed wooden shutter,4418.20
+145,Wooden railing / balustrade,4418.99
+146,Wooden stair tread,4418.99
+147,Wooden moulding / beading,4409.29
+148,Veneer sheet,4408.90
+149,Bamboo pole / scaffolding,4401.40
+150,Wooden batten / furring,4409.29
+151,Timber post / pile,4403.99
+152,Wood wool / excelsior,4405.00
+153,Wooden ladder,4421.99
+154,Wooden crate / pallet,4415.10
+155,Wooden cable drum,4415.10
+156,Wooden shuttering plank,4407.99
+157,Wooden skirting,4409.29
+158,Wooden handrail,4418.99
+159,Wooden louver / vent,4421.99
+160,Wooden formwork panel,4418.99
+161,Commercial plywood,4412.39
+162,Teak plywood,4412.33
+163,Marine plywood,4412.39
+164,Film-faced plywood,4412.39
+165,Flexi / bending ply,4412.39
+166,Block board,4412.39
+167,Laminated board,4412.39
+168,MDF board,4411.13
+169,HDF board,4411.14
+170,Particle board,4410.11
+171,OSB board,4410.12
+172,Decorative laminate (sunmica),3921.90
+173,Gypsum board,6809.19
+174,Cement board,6811.42
+175,Calcium silicate board,6806.90
+176,Float glass 4mm,7005.29
+177,Float glass 6mm,7005.29
+178,Tinted glass,7005.10
+179,Tempered / toughened glass,7007.19
+180,Laminated glass,7007.29
+181,Wired glass,7005.10
+182,Mirror glass,7009.92
+183,Glass louver blade,7003.19
+184,Glass block,7016.90
+185,GRP / fibreglass sheet,7019.90
+186,Glass wool insulation,7019.90
+187,Framed mirror,7009.92
+188,PVC pipe,3917.23
+189,uPVC pipe,3917.23
+190,CPVC pipe,3917.23
+191,HDPE pipe,3917.21
+192,LDPE pipe,3917.21
+193,PPR pipe,3917.22
+194,ABS pipe,3917.29
+195,GRP / FRP pipe,3917.39
+196,PVC elbow,3917.40
+197,PVC tee,3917.40
+198,PVC bend,3917.40
+199,PVC coupling,3917.40
+200,PVC reducer,3917.40
+201,PVC end cap,3917.40
+202,PVC union,3917.40
+203,PVC saddle,3917.40
+204,PVC vent cowl,3917.40
+205,PVC floor trap,3917.40
+206,PVC conduit,3917.23
+207,Conduit bend / box,3917.40
+208,Flexible PVC hose,3917.32
+209,PPR fittings,3917.40
+210,HDPE fittings,3917.40
+211,CPVC fittings,3917.40
+212,Plastic inspection chamber,3925.90
+213,GI pipe,7306.30
+214,MS pipe,7306.30
+215,SS pipe,7306.40
+216,Copper pipe,7411.10
+217,Aluminium pipe,7608.20
+218,CI spigot pipe,7303.00
+219,Ductile iron (DI) pipe,7303.00
+220,Steel pipe elbow,7307.99
+221,GI elbow (threaded),7307.92
+222,GI tee,7307.92
+223,GI socket,7307.92
+224,SS elbow / fitting,7307.29
+225,Steel flange,7307.91
+226,Pipe clamp / hanger,7326.90
+227,Flexible metal hose,8307.10
+228,Gate valve,8481.80
+229,Globe valve,8481.80
+230,Ball valve,8481.80
+231,Check valve,8481.30
+232,Butterfly valve,8481.80
+233,Foot valve,8481.30
+234,Float valve,8481.80
+235,Pressure reducing valve,8481.80
+236,Bib cock / tap,8481.80
+237,Angle cock,8481.80
+238,Shower mixer,8481.80
+239,Pillar cock,8481.80
+240,Concealed stop cock,8481.80
+241,CP flush valve,8481.80
+242,CP grab bar,7324.90
+243,SS towel ring,7324.90
+244,Steel soap dish,7324.90
+245,Toilet paper holder,7324.90
+246,SS floor drain,7324.90
+247,Waste coupling,7324.90
+248,EWC commode set,6910.10
+249,Orissa pan,6910.10
+250,Wash basin (ceramic),6910.10
+251,Urinal (ceramic),6910.10
+252,Ceramic sink,6910.10
+253,Squatting plate,6910.10
+254,Ceramic cistern,6910.10
+255,Porcelain floor tile,6907.21
+256,Vitrified tile,6907.21
+257,Ceramic wall tile,6907.23
+258,Glazed tile,6907.23
+259,Mosaic tile,6907.22
+260,Anti-skid tile,6907.22
+261,Parking tile,6907.21
+262,Ceramic skirting,6907.23
+263,Ceramic roof tile,6906.00
+264,Terracotta tile,6906.00
+265,Ceramic jali / ventilator,6914.90
+266,Ceramic soap dish,6912.00
+267,Ceramic door handle,6914.90
+268,PVC water tank,3925.10
+269,HDPE water tank,3925.10
+270,Loft tank,3925.10
+271,Plastic septic tank,3925.10
+272,Plastic cistern,3922.20
+273,Plastic seat cover,3922.20
+274,Plastic wash basin,3922.90
+275,Plastic bucket,3924.90
+276,Plastic drum (200L),3923.30
+277,Plastic crate,3923.10
+278,HDPE tarpaulin,6306.12
+279,Rigid PVC sheet,3920.49
+280,Acrylic sheet (PMMA),3920.51
+281,Polycarbonate sheet,3920.61
+282,FRP sheet,3926.90
+283,Plastic door mat,3924.90
+284,PVC floor mat / roll,3918.10
+285,Artificial grass turf,5703.39
+286,Plastic mesh / net,5608.11
+287,Plastic rope / twine,5607.50
+288,Acrylic emulsion paint,3209.10
+289,Exterior weather coat,3209.10
+290,Interior emulsion paint,3209.10
+291,Cement primer,3209.90
+292,Enamel paint,3208.20
+293,Synthetic enamel paint,3208.20
+294,Zinc-rich primer,3208.90
+295,Epoxy paint,3208.90
+296,PU paint,3208.90
+297,Red oxide primer,3208.90
+298,Varnish,3210.00
+299,Melamine polish,3210.00
+300,Shellac / french polish,3210.00
+301,Distemper,3209.90
+302,Cement paint,3210.00
+303,Wall putty,3214.10
+304,Wood filler,3214.10
+305,Glaziers putty,3214.10
+306,Silicone sealant,3506.91
+307,PU sealant,3506.91
+308,Bitumen mastic sealant,2715.00
+309,Paint thinner,3814.00
+310,NC thinner,3814.00
+311,Turpentine oil,3805.40
+312,Raw linseed oil,1515.11
+313,Boiled linseed oil,1515.19
+314,Anti-termite chemical,3808.91
+315,Fungicide,3808.92
+316,Herbicide,3808.93
+317,Disinfectant,3808.94
+318,APP bitumen membrane,6807.90
+319,SBS membrane,6807.90
+320,Bitumen primer,2715.00
+321,Bitumen felt,6807.10
+322,Bitumen (asphalt),2713.20
+323,Coal tar,2706.00
+324,Elastomeric waterproof coating,3824.99
+325,Cementitious waterproofing,3824.99
+326,Crystalline waterproofing,3824.99
+327,PVC waterstop,3916.90
+328,Rubber waterstop,4016.99
+329,Expansion joint filler (foam),4016.10
+330,Fibre-cement roof sheet,6811.41
+331,CGI sheet,7210.49
+332,Colour roof sheet,7210.70
+333,Ridge cap,7210.70
+334,PVC gutter,3925.90
+335,PVC rainwater pipe,3925.90
+336,Polycarbonate roof sheet,3920.61
+337,Solar reflective coating,3824.99
+338,House wire 1.5 sqmm,8544.49
+339,House wire 2.5 sqmm,8544.49
+340,House wire 4 sqmm,8544.49
+341,Flexible wire,8544.49
+342,Submersible cable,8544.49
+343,Armoured cable (4-core),8544.49
+344,XLPE cable,8544.49
+345,Control cable,8544.49
+346,Telephone cable,8544.49
+347,Coaxial cable,8544.20
+348,LAN / Cat6 cable,8544.49
+349,Fibre optic cable,8544.70
+350,Welding cable,8544.49
+351,Battery cable,8544.49
+352,Cu earthing strip,7409.19
+353,GI earth wire,7217.20
+354,Cable tray (steel),7308.90
+355,Cable ladder,7308.90
+356,Cable gland,8547.90
+357,Nylon cable tie,3926.90
+358,MCB SP,8536.20
+359,MCB DP,8536.20
+360,MCB TP,8536.20
+361,RCCB / ELCB,8536.20
+362,Isolator / switch disconnector,8536.50
+363,HRC fuse,8536.10
+364,Distribution board,8537.10
+365,MDB / panel board,8537.10
+366,Changeover switch,8536.50
+367,Modular switch,8536.50
+368,Socket outlet,8536.69
+369,Plug top,8536.69
+370,Extension cord,8544.42
+371,Dimmer,8536.50
+372,Bell push,8536.50
+373,Indicator lamp,8531.80
+374,Door bell,8531.80
+375,Contactor,8536.49
+376,Thermal overload relay,8536.30
+377,Timer switch,8536.49
+378,Surge protector (SPD),8536.30
+379,Earth leakage relay,8536.30
+380,Copper busbar,8536.90
+381,Terminal block,8536.90
+382,Metal junction box,8547.90
+383,LED bulb,8539.52
+384,LED tube,8539.52
+385,LED panel light,9405.11
+386,LED flood light,9405.11
+387,Street light fixture,9405.11
+388,Emergency light,9405.11
+389,Decorative / chandelier light,9405.11
+390,Ceiling fan,8414.51
+391,Exhaust fan,8414.51
+392,Pedestal fan,8414.51
+393,Electric water heater,8516.10
+394,Geyser,8516.10
+395,Room heater,8516.29
+396,Air conditioner,8415.10
+397,Water purifier / cooler,8421.21
+398,Padlock,8301.10
+399,Mortise door lock,8301.40
+400,Cylinder lock,8301.40
+401,SS hinge,8302.10
+402,Aldrop / tower bolt,8302.41
+403,Door closer,8302.60
+404,Door stopper,8302.49
+405,Tower bolt,8302.41
+406,SS door handle,8302.49
+407,Caster wheel,8302.20
+408,Aluminium ladder,7616.99
+409,Wheelbarrow,8716.80
+410,Shovel / phawra,8201.10
+411,Pickaxe,8201.30
+412,Crowbar,8205.59
+413,Hammer,8205.20
+414,Spanner / wrench,8204.11
+415,Screwdriver,8205.40
+416,Plier,8203.20
+417,Hacksaw blade,8202.31
+418,Mason trowel,8201.90
+419,Measuring tape,9017.20
+420,Spirit level,9015.30
+421,Dumpy / auto level,9015.30
+422,Total station,9015.20
+423,Theodolite,9015.20
+424,Laser level,9015.30
+425,Drill machine,8467.21
+426,Angle grinder,8467.29
+427,Abrasive cutting blade,6804.22
+428,Concrete mixer,8474.31
+429,Batching plant,8474.20
+430,Poker vibrator,8479.89
+431,Power trowel,8479.89
+432,Bar bending machine,8462.29
+433,Bar cutting machine,8462.29
+434,DG set (≤75 kVA),8502.11
+435,Distribution transformer,8504.33
+436,UPS,8504.40
+437,Inverter,8504.40
+438,Lead-acid battery,8507.20
+439,Solar PV panel,8541.43
+440,Solar water heater,8419.12
+441,Submersible pump,8413.70
+442,Dewatering pump,8413.70
+443,Air compressor,8414.80
+444,Arc welding machine,8515.31
+445,Chain pulley block (manual),8425.19
+446,Winch / hoist,8425.31
+447,Excavator / JCB,8429.52
+448,Safety helmet,6506.10
+449,Safety shoe (steel toe),6403.40
+450,Safety goggle,9004.90
+451,Reflective jacket,6211.43
+452,Leather hand glove,4203.29
+453,Rubber hand glove,4015.19
+454,Safety belt / harness,6307.90
+455,First aid box,3006.50
+456,Fire extinguisher,8424.10
+457,Barricade tape,3920.10
+458,Traffic cone,3926.90
+459,Reflective sign board,8310.00
+460,Caution board,8310.00
+461,Site office container,9406.90
+462,Porta cabin,9406.90
+463,Epoxy adhesive,3506.91
+464,PVA adhesive (fevicol),3506.10
+465,Polymer tile adhesive,3506.10
+466,Epoxy putty (m-seal),3506.91
+467,Contact adhesive,3506.10
+468,Rubber sheet,4008.21
+469,Rubber mat,4016.91
+470,Neoprene bearing,4016.99
+471,Cork sheet,4504.10
+472,Thermocol (EPS),3921.11
+473,PUF panel,3921.13
+474,Glass fibre mesh,7019.61
+475,Chicken mesh,7314.19
+476,Welding rod,8311.10
+477,SS welding electrode,8311.10
+478,LPG cylinder (site),2711.13
+479,Oxygen cylinder,2804.40
+480,Nitrogen cylinder,2804.30
+481,SS kitchen sink,7324.10
+482,LPG gas stove,7321.11
+483,Kitchen chimney hood,8414.60
+484,Refrigerator,8418.21
+485,Deep freezer,8418.30
+486,Microwave oven,8516.50
+487,Water dispenser,8516.10
+488,Steel table,9403.20
+489,Office swivel chair,9401.31
+490,Office desk,9403.30
+491,Filing cabinet,9403.10
+492,Printer,8443.32
+493,Laptop / computer,8471.30
+494,A4 paper,4802.56
+495,Toner cartridge,8443.99
+496,Broom,9603.90
+497,Mop,9603.90
+498,Detergent powder,3402.50
+499,Disinfectant fluid (phenyl),3808.94
+500,Plastic dustbin,3924.90

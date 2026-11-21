@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Contractor's Stambha</title>
+    <meta
+      name="description"
+      content="Contractor's Stambha — construction project management: BOQ, DSR, attendance, billing, ledger and scheduling."
+    />
+    <style>
+      /* Inline so the theme colours apply immediately, avoiding a flash */
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+      }
+      html.light,
+      html.light body {
+        background-color: #ffffff !important;
+        color: #000000;
+      }
+      html.dark,
+      html.dark body {
+        background-color: #0a0a0b !important;
+        color: #f4f4f5;
+      }
+    </style>
+    <!-- No inline scripts: the theme bootstrap lives in src/bootstrap.ts so the
+         desktop app can run under a strict Content-Security-Policy. -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
